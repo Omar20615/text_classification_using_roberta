@@ -1,0 +1,908 @@
+[
+  {
+    "context": " \r\n [ period ] [ HISTORY OF PRESENT ILLNESS ] Patient here is for a follow up her of her dermatitis on the arm and face , which is better with upsurura [ period ] [ EXAMINATION ] No relevant lesion today on the face or arms [ period ] [ ASSESSMENT AND PLAN ] Uhm dermatitis [ slash ] atopic , now stable with absoluteora . Patient also asking about um asthmatic treatment for her lentigoes on her hands . Um we will schedule a fracture laser to treat them . Follow up two to three weeks",
+    "qas": [
+      {
+        "id": "1",
+        "is_impossible": false,
+        "question": "what is the examination of the patient?",
+        "answers": [
+          {
+            "text": "No relevant lesion today on the face or arms",
+            "answer_start": 179
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "74-year-old male patient Jean D. was seen on February 6, 2023 as a follow-up patient.",
+    "qas": [
+      {
+        "id": "2",
+        "is_impossible": false,
+        "question": "how old is the patient?",
+        "answers": [
+          {
+            "text": "74.0",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter history of present illness\r\n  patient here for mild erythema and scarring of face secondary to previous acne . Examination\r\n  Slight hyperpigmentation and um atrophic scars on the cheek along with erythema . Enter assessment and plan , acne and acne scars\r\n  PROCEDURE Um Genesis with 1064 , energy six and above um 2000 pulses on each cheek",
+    "qas": [
+      {
+        "id": "3",
+        "is_impossible": false,
+        "question": "what is the examination of the patient?",
+        "answers": [
+          {
+            "text": "slight hyperpigmentation and atrophic scars on the cheek along with erythema.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter history of present illness\r\n  patient here for mild erythema and scarring of face secondary to previous acne . Examination\r\n  Slight hyperpigmentation and um atrophic scars on the cheek along with erythema . Enter assessment and plan , acne and acne scars\r\n  PROCEDURE Um Genesis with 1064 , energy six and above um 2000 pulses on each cheek",
+    "qas": [
+      {
+        "id": "4",
+        "is_impossible": false,
+        "question": "what is the assessment and plan for the patient?",
+        "answers": [
+          {
+            "text": "Acne and acne scars\r\n  procedure um genesis with 1064 , energy six and above 2000 pulses on each cheek",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n . Enter history of present illness\r\n  patient here because of um acne , has previous has- history of bad acne on the face , most recently most recently she has been doing well um because she was on birth control pill Yasmin , which she is thinking of stopping it because she is worried about the side effect of birth control pills . Enter examination , very few um\r\n  papules and comedones on the cheeks . Enter [ ASSESSMENT AND PLAN ] Diagnosis , um acne vulgaris , mild . Um start patient on clinda gel in the morning and epidural at night , just spot treatment . If her conditions worse or acne worse , we will consider oral medication . Consult patient about um what to avoidant diet , in reference to acne , especially um foods um with high sugar contact",
+    "qas": [
+      {
+        "id": "5",
+        "is_impossible": false,
+        "question": "what is the history of present illness of the patient?",
+        "answers": [
+          {
+            "text": "Patient here because of acne , has previous has- history of bad acne on the face , most recently most recently she has been doing well because she was on birth control pill yasmin , which she is thinking of stopping it because she is worried about the side effect of birth control pills.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ HISTORY OF PRESENT ILLNESS ] Patrick is here today for his yearly skin check . Otherwise , not concerned about any special lesion on any part of the body and have no other associated symptoms of any other um medical conditions [ period ] [ EXAMINATION ] A several scattered seborrheic keratosis of the trunk\r\n  few um hyperpigmented papules on the face\r\n  and slight xerosis with mild scaling on um legs [ period ] [ ASSESSMENT AND PLAN ] Seborric keratosis scattered over trunk , no treatment [ comma ] nevi scattered over extremities and face , no treatment \r\n  Slight xerosis on the legs . Um no treatment . Patient advised on skilled care protection and the and the importance of moisturizing his skin . Follow up in one year or earlier\r\n as needed",
+    "qas": [
+      {
+        "id": "6",
+        "is_impossible": false,
+        "question": "what is the assessment and plan for the patient?",
+        "answers": [
+          {
+            "text": "Seborric keratosis scattered over trunk , no treatment  comma  nevi scattered over extremities and face , no treatment \r\n  slight xerosis on the legs. um no treatment. patient advised on skilled care protection and the and the importance of moisturizing his skin. follow up in one year or earlier\r\n as needed",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": " \r\n [ period ] [ HISTORY OF PRESENT ILLNESS ] Patient here is for a follow up her of her dermatitis on the arm and face , which is better with upsurura [ period ] [ EXAMINATION ] No relevant lesion today on the face or arms [ period ] [ ASSESSMENT AND PLAN ] Uhm dermatitis [ slash ] atopic , now stable with absoluteora . Patient also asking about um asthmatic treatment for her lentigoes on her hands . Um we will schedule a fracture laser to treat them . Follow up two to three weeks",
+    "qas": [
+      {
+        "id": "7",
+        "is_impossible": false,
+        "question": "what is the history of present illness of the patient?",
+        "answers": [
+          {
+            "text": "Patient here is for a follow up her of her dermatitis on the arm and face , which is better with upsurura",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ HISTORY OF PRESENT ILLNESS ] Patient is here for a filler . Had a filler done couple of weeks ago . She wants little more um procedure \r\n  valvular um injected to upper lip and small amount to lower lip um routine . No complication . Patient patient is happy now",
+    "qas": [
+      {
+        "id": "8",
+        "is_impossible": true,
+        "question": "what are the allergies of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " \r\n HISTORY OF PRESENT ILLNESS Patient is a 30 -year-old female presenting here today for a full skin exam . Examination , patient reports two puffs located on the trunk",
+    "qas": [
+      {
+        "id": "9",
+        "is_impossible": true,
+        "question": "what are the allergies of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n patient is a 30 -year-old female presenting for a full skin exam . Enter examination \r\n  patient presents with 2 cm umbilicated\r\n pl",
+    "qas": [
+      {
+        "id": "10",
+        "is_impossible": true,
+        "question": "what is the name of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ HISTORY OF PRESENT ILLNESS ] Patient is here for a filler . Had a filler done couple of weeks ago . She wants little more um procedure \r\n  valvular um injected to upper lip and small amount to lower lip um routine . No complication . Patient patient is happy now",
+    "qas": [
+      {
+        "id": "11",
+        "is_impossible": true,
+        "question": "what is the name of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n patient is a 30 -year-old female presenting for a full skin exam . Enter examination \r\n  patient presents with 2 cm umbilicated\r\n pl",
+    "qas": [
+      {
+        "id": "12",
+        "is_impossible": true,
+        "question": "what is the procedure recommended to the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter history of present illness\r\n  patient here for a full skin check . She is worried about few spots on her left arm . Also have history of um eczema , hand eczema , and some um lesions on the in the cheek , in the past . Otherwise , no associated illness today . Enter examination\r\n  um slight scaling and erythema of lips\r\n  and um several um brown verrucous papules on the back along with several common nevi on the trunk and extremities , enter assessment and plan . Number one , um possible contact with dermatitis on the lips um prescribed Elidal cream just to the lips um twice a day and ketoconazole cream to the angle of um mouth just for um one week once a day\r\n  also patient have history of eczema on the hands , which for which she already had baromethasone cream . She will continue that\r\n  um on skin examination for skin check um most of the le- um all the lesions are benign . Nevi and seborrheic keratosis , no treatment needed today . Patient advised to avoid sun , where sunscreen and follow up if any of these region change . Otherwise , she will be here in six months",
+    "qas": [
+      {
+        "id": "13",
+        "is_impossible": false,
+        "question": "what is the examination of the patient?",
+        "answers": [
+          {
+            "text": "Slight scaling and erythema of lips\r\n  and several brown verrucous papules on the back along with several common nevi on the trunk and extremities ,",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "74-year-old male patient Jean D. was seen on February 6, 2023 as a follow-up patient.",
+    "qas": [
+      {
+        "id": "14",
+        "is_impossible": false,
+        "question": "what is the name of the patient?",
+        "answers": [
+          {
+            "text": "Jean D.",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": " \r\n HISTORY OF PRESENT ILLNESS Patient is a 30 -year-old female presenting here today for a full skin exam . Examination , patient reports two puffs located on the trunk",
+    "qas": [
+      {
+        "id": "15",
+        "is_impossible": false,
+        "question": "how old is the patient?",
+        "answers": [
+          {
+            "text": "30.0",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ HISTORY OF PRESENT ILLNESS ] Patrick is here today for his yearly skin check . Otherwise , not concerned about any special lesion on any part of the body and have no other associated symptoms of any other um medical conditions [ period ] [ EXAMINATION ] A several scattered seborrheic keratosis of the trunk\r\n  few um hyperpigmented papules on the face\r\n  and slight xerosis with mild scaling on um legs [ period ] [ ASSESSMENT AND PLAN ] Seborric keratosis scattered over trunk , no treatment [ comma ] nevi scattered over extremities and face , no treatment \r\n  Slight xerosis on the legs . Um no treatment . Patient advised on skilled care protection and the and the importance of moisturizing his skin . Follow up in one year or earlier\r\n as needed",
+    "qas": [
+      {
+        "id": "16",
+        "is_impossible": false,
+        "question": "what is the history of present illness of the patient?",
+        "answers": [
+          {
+            "text": "Patrick is here today for his yearly skin check. otherwise , not concerned about any special lesion on any part of the body and have no other associated symptoms of any other medical conditions",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter history of present illness\r\n  patient here for a full skin check . She is worried about few spots on her left arm . Also have history of um eczema , hand eczema , and some um lesions on the in the cheek , in the past . Otherwise , no associated illness today . Enter examination\r\n  um slight scaling and erythema of lips\r\n  and um several um brown verrucous papules on the back along with several common nevi on the trunk and extremities , enter assessment and plan . Number one , um possible contact with dermatitis on the lips um prescribed Elidal cream just to the lips um twice a day and ketoconazole cream to the angle of um mouth just for um one week once a day\r\n  also patient have history of eczema on the hands , which for which she already had baromethasone cream . She will continue that\r\n  um on skin examination for skin check um most of the le- um all the lesions are benign . Nevi and seborrheic keratosis , no treatment needed today . Patient advised to avoid sun , where sunscreen and follow up if any of these region change . Otherwise , she will be here in six months",
+    "qas": [
+      {
+        "id": "17",
+        "is_impossible": true,
+        "question": "what is the name of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "[HISTORY OF PRESENT ILLNESS] patient has a for a rash , which has been present for many weeks . Also have some mild itching and pain in the area . Otherwise , no associated symptoms and he has tried over-the-counter creams and Benadryl without any benefits . Patient worried this may be an infection and should he avoid meeting other people",
+    "qas": [
+      {
+        "id": "18",
+        "is_impossible": true,
+        "question": "what is the review of systems of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n . Enter history of present illness\r\n  patient here because of um acne , has previous has- history of bad acne on the face , most recently most recently she has been doing well um because she was on birth control pill Yasmin , which she is thinking of stopping it because she is worried about the side effect of birth control pills . Enter examination , very few um\r\n  papules and comedones on the cheeks . Enter [ ASSESSMENT AND PLAN ] Diagnosis , um acne vulgaris , mild . Um start patient on clinda gel in the morning and epidural at night , just spot treatment . If her conditions worse or acne worse , we will consider oral medication . Consult patient about um what to avoidant diet , in reference to acne , especially um foods um with high sugar contact",
+    "qas": [
+      {
+        "id": "19",
+        "is_impossible": true,
+        "question": "what are the allergies of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n patient is a 30 -year-old female presenting for a full skin exam . Enter examination \r\n  patient presents with 2 cm umbilicated\r\n pl",
+    "qas": [
+      {
+        "id": "20",
+        "is_impossible": true,
+        "question": "what are the allergies of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter history of present illness\r\n  patient here for mild erythema and scarring of face secondary to previous acne . Examination\r\n  Slight hyperpigmentation and um atrophic scars on the cheek along with erythema . Enter assessment and plan , acne and acne scars\r\n  PROCEDURE Um Genesis with 1064 , energy six and above um 2000 pulses on each cheek",
+    "qas": [
+      {
+        "id": "21",
+        "is_impossible": true,
+        "question": "what is the date of birth(dob) of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ HISTORY OF PRESENT ILLNESS ] Patrick is here today for his yearly skin check . Otherwise , not concerned about any special lesion on any part of the body and have no other associated symptoms of any other um medical conditions [ period ] [ EXAMINATION ] A several scattered seborrheic keratosis of the trunk\r\n  few um hyperpigmented papules on the face\r\n  and slight xerosis with mild scaling on um legs [ period ] [ ASSESSMENT AND PLAN ] Seborric keratosis scattered over trunk , no treatment [ comma ] nevi scattered over extremities and face , no treatment \r\n  Slight xerosis on the legs . Um no treatment . Patient advised on skilled care protection and the and the importance of moisturizing his skin . Follow up in one year or earlier\r\n as needed",
+    "qas": [
+      {
+        "id": "22",
+        "is_impossible": false,
+        "question": "what is the examination of the patient?",
+        "answers": [
+          {
+            "text": "A several scattered seborrheic keratosis of the trunk\r\n  few hyperpigmented papules on the face\r\n  and slight xerosis with mild scaling on legs",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ HISTORY OF PRESENT ILLNESS ] Patrick is here today for his yearly skin check . Otherwise , not concerned about any special lesion on any part of the body and have no other associated symptoms of any other um medical conditions [ period ] [ EXAMINATION ] A several scattered seborrheic keratosis of the trunk\r\n  few um hyperpigmented papules on the face\r\n  and slight xerosis with mild scaling on um legs [ period ] [ ASSESSMENT AND PLAN ] Seborric keratosis scattered over trunk , no treatment [ comma ] nevi scattered over extremities and face , no treatment \r\n  Slight xerosis on the legs . Um no treatment . Patient advised on skilled care protection and the and the importance of moisturizing his skin . Follow up in one year or earlier\r\n as needed",
+    "qas": [
+      {
+        "id": "23",
+        "is_impossible": false,
+        "question": "what is the name of the patient?",
+        "answers": [
+          {
+            "text": "Patrick",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter history of present illness\r\n  patient here for a full skin check . She is worried about few spots on her left arm . Also have history of um eczema , hand eczema , and some um lesions on the in the cheek , in the past . Otherwise , no associated illness today . Enter examination\r\n  um slight scaling and erythema of lips\r\n  and um several um brown verrucous papules on the back along with several common nevi on the trunk and extremities , enter assessment and plan . Number one , um possible contact with dermatitis on the lips um prescribed Elidal cream just to the lips um twice a day and ketoconazole cream to the angle of um mouth just for um one week once a day\r\n  also patient have history of eczema on the hands , which for which she already had baromethasone cream . She will continue that\r\n  um on skin examination for skin check um most of the le- um all the lesions are benign . Nevi and seborrheic keratosis , no treatment needed today . Patient advised to avoid sun , where sunscreen and follow up if any of these region change . Otherwise , she will be here in six months",
+    "qas": [
+      {
+        "id": "24",
+        "is_impossible": true,
+        "question": "what are the current medication of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter history of present illness\r\n  patient here for mild erythema and scarring of face secondary to previous acne . Examination\r\n  Slight hyperpigmentation and um atrophic scars on the cheek along with erythema . Enter assessment and plan , acne and acne scars\r\n  PROCEDURE Um Genesis with 1064 , energy six and above um 2000 pulses on each cheek",
+    "qas": [
+      {
+        "id": "25",
+        "is_impossible": false,
+        "question": "what is the history of present illness of the patient?",
+        "answers": [
+          {
+            "text": "Patient here for mild erythema and scarring of face secondary to previous acne.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter history of present illness\r\n  patient here for mild erythema and scarring of face secondary to previous acne . Examination\r\n  Slight hyperpigmentation and um atrophic scars on the cheek along with erythema . Enter assessment and plan , acne and acne scars\r\n  PROCEDURE Um Genesis with 1064 , energy six and above um 2000 pulses on each cheek",
+    "qas": [
+      {
+        "id": "26",
+        "is_impossible": true,
+        "question": "what is the review of systems of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "74-year-old male patient Jean D. was seen on February 6, 2023 as a follow-up patient.",
+    "qas": [
+      {
+        "id": "27",
+        "is_impossible": true,
+        "question": "what is the procedure recommended to the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n patient is a 30 -year-old female presenting for a full skin exam . Enter examination \r\n  patient presents with 2 cm umbilicated\r\n pl",
+    "qas": [
+      {
+        "id": "28",
+        "is_impossible": true,
+        "question": "what is the assessment and plan for the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter history of present illness\r\n  patient here for mild erythema and scarring of face secondary to previous acne . Examination\r\n  Slight hyperpigmentation and um atrophic scars on the cheek along with erythema . Enter assessment and plan , acne and acne scars\r\n  PROCEDURE Um Genesis with 1064 , energy six and above um 2000 pulses on each cheek",
+    "qas": [
+      {
+        "id": "29",
+        "is_impossible": true,
+        "question": "what is the past medical history of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter history of present illness\r\n  patient here for mild erythema and scarring of face secondary to previous acne . Examination\r\n  Slight hyperpigmentation and um atrophic scars on the cheek along with erythema . Enter assessment and plan , acne and acne scars\r\n  PROCEDURE Um Genesis with 1064 , energy six and above um 2000 pulses on each cheek",
+    "qas": [
+      {
+        "id": "30",
+        "is_impossible": true,
+        "question": "what is the procedure recommended to the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n patient is a 30 -year-old female presenting for a full skin exam . Enter examination \r\n  patient presents with 2 cm umbilicated\r\n pl",
+    "qas": [
+      {
+        "id": "31",
+        "is_impossible": false,
+        "question": "how old is the patient?",
+        "answers": [
+          {
+            "text": "30.0",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": " \r\n HISTORY OF PRESENT ILLNESS Patient is a 30 -year-old female presenting here today for a full skin exam . Examination , patient reports two puffs located on the trunk",
+    "qas": [
+      {
+        "id": "32",
+        "is_impossible": true,
+        "question": "what is the procedure recommended to the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter history of present illness\r\n  patient here for mild erythema and scarring of face secondary to previous acne . Examination\r\n  Slight hyperpigmentation and um atrophic scars on the cheek along with erythema . Enter assessment and plan , acne and acne scars\r\n  PROCEDURE Um Genesis with 1064 , energy six and above um 2000 pulses on each cheek",
+    "qas": [
+      {
+        "id": "33",
+        "is_impossible": true,
+        "question": "what are the allergies of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter history of present illness\r\n  patient here for mild erythema and scarring of face secondary to previous acne . Examination\r\n  Slight hyperpigmentation and um atrophic scars on the cheek along with erythema . Enter assessment and plan , acne and acne scars\r\n  PROCEDURE Um Genesis with 1064 , energy six and above um 2000 pulses on each cheek",
+    "qas": [
+      {
+        "id": "34",
+        "is_impossible": true,
+        "question": "what are the current medication of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "[HISTORY OF PRESENT ILLNESS] patient has a for a rash , which has been present for many weeks . Also have some mild itching and pain in the area . Otherwise , no associated symptoms and he has tried over-the-counter creams and Benadryl without any benefits . Patient worried this may be an infection and should he avoid meeting other people",
+    "qas": [
+      {
+        "id": "35",
+        "is_impossible": false,
+        "question": "what is the history of present illness of the patient?",
+        "answers": [
+          {
+            "text": "patient has a for a rash , which has been present for many weeks . Also have some mild itching and pain in the area . Otherwise , no associated symptoms and he has tried over-the-counter creams and Benadryl without any benefits . Patient worried this may be an infection and should he avoid meeting other people",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "74-year-old male patient Jean D. was seen on February 6, 2023 as a follow-up patient.",
+    "qas": [
+      {
+        "id": "36",
+        "is_impossible": true,
+        "question": "what is the past medical history of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " \r\n HISTORY OF PRESENT ILLNESS Patient is a 30 -year-old female presenting here today for a full skin exam . Examination , patient reports two puffs located on the trunk",
+    "qas": [
+      {
+        "id": "37",
+        "is_impossible": true,
+        "question": "what is the name of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter history of present illness\r\n  patient here for a full skin check . She is worried about few spots on her left arm . Also have history of um eczema , hand eczema , and some um lesions on the in the cheek , in the past . Otherwise , no associated illness today . Enter examination\r\n  um slight scaling and erythema of lips\r\n  and um several um brown verrucous papules on the back along with several common nevi on the trunk and extremities , enter assessment and plan . Number one , um possible contact with dermatitis on the lips um prescribed Elidal cream just to the lips um twice a day and ketoconazole cream to the angle of um mouth just for um one week once a day\r\n  also patient have history of eczema on the hands , which for which she already had baromethasone cream . She will continue that\r\n  um on skin examination for skin check um most of the le- um all the lesions are benign . Nevi and seborrheic keratosis , no treatment needed today . Patient advised to avoid sun , where sunscreen and follow up if any of these region change . Otherwise , she will be here in six months",
+    "qas": [
+      {
+        "id": "38",
+        "is_impossible": true,
+        "question": "what is the mrn of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " \r\n [ period ] [ HISTORY OF PRESENT ILLNESS ] Patient here is for a follow up her of her dermatitis on the arm and face , which is better with upsurura [ period ] [ EXAMINATION ] No relevant lesion today on the face or arms [ period ] [ ASSESSMENT AND PLAN ] Uhm dermatitis [ slash ] atopic , now stable with absoluteora . Patient also asking about um asthmatic treatment for her lentigoes on her hands . Um we will schedule a fracture laser to treat them . Follow up two to three weeks",
+    "qas": [
+      {
+        "id": "39",
+        "is_impossible": true,
+        "question": "what is the date of birth(dob) of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " \r\n [ period ] [ HISTORY OF PRESENT ILLNESS ] Patient here is for a follow up her of her dermatitis on the arm and face , which is better with upsurura [ period ] [ EXAMINATION ] No relevant lesion today on the face or arms [ period ] [ ASSESSMENT AND PLAN ] Uhm dermatitis [ slash ] atopic , now stable with absoluteora . Patient also asking about um asthmatic treatment for her lentigoes on her hands . Um we will schedule a fracture laser to treat them . Follow up two to three weeks",
+    "qas": [
+      {
+        "id": "40",
+        "is_impossible": true,
+        "question": "what is the name of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ HISTORY OF PRESENT ILLNESS ] Patient is here for a filler . Had a filler done couple of weeks ago . She wants little more um procedure \r\n  valvular um injected to upper lip and small amount to lower lip um routine . No complication . Patient patient is happy now",
+    "qas": [
+      {
+        "id": "41",
+        "is_impossible": true,
+        "question": "what is the date of birth(dob) of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n patient is a 30 -year-old female presenting for a full skin exam . Enter examination \r\n  patient presents with 2 cm umbilicated\r\n pl",
+    "qas": [
+      {
+        "id": "42",
+        "is_impossible": true,
+        "question": "what is the review of systems of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ HISTORY OF PRESENT ILLNESS ] Patient is here for a filler . Had a filler done couple of weeks ago . She wants little more um procedure \r\n  valvular um injected to upper lip and small amount to lower lip um routine . No complication . Patient patient is happy now",
+    "qas": [
+      {
+        "id": "43",
+        "is_impossible": true,
+        "question": "how old is the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter history of present illness\r\n  patient here for a full skin check . She is worried about few spots on her left arm . Also have history of um eczema , hand eczema , and some um lesions on the in the cheek , in the past . Otherwise , no associated illness today . Enter examination\r\n  um slight scaling and erythema of lips\r\n  and um several um brown verrucous papules on the back along with several common nevi on the trunk and extremities , enter assessment and plan . Number one , um possible contact with dermatitis on the lips um prescribed Elidal cream just to the lips um twice a day and ketoconazole cream to the angle of um mouth just for um one week once a day\r\n  also patient have history of eczema on the hands , which for which she already had baromethasone cream . She will continue that\r\n  um on skin examination for skin check um most of the le- um all the lesions are benign . Nevi and seborrheic keratosis , no treatment needed today . Patient advised to avoid sun , where sunscreen and follow up if any of these region change . Otherwise , she will be here in six months",
+    "qas": [
+      {
+        "id": "44",
+        "is_impossible": false,
+        "question": "what is the history of present illness of the patient?",
+        "answers": [
+          {
+            "text": "Patient here for a full skin check. she is worried about few spots on her left arm. also have history of eczema , hand eczema , and some lesions on the in the cheek , in the past. otherwise , no associated illness today.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n . Enter history of present illness\r\n  patient here because of um acne , has previous has- history of bad acne on the face , most recently most recently she has been doing well um because she was on birth control pill Yasmin , which she is thinking of stopping it because she is worried about the side effect of birth control pills . Enter examination , very few um\r\n  papules and comedones on the cheeks . Enter [ ASSESSMENT AND PLAN ] Diagnosis , um acne vulgaris , mild . Um start patient on clinda gel in the morning and epidural at night , just spot treatment . If her conditions worse or acne worse , we will consider oral medication . Consult patient about um what to avoidant diet , in reference to acne , especially um foods um with high sugar contact",
+    "qas": [
+      {
+        "id": "45",
+        "is_impossible": false,
+        "question": "what is the examination of the patient?",
+        "answers": [
+          {
+            "text": "Very few um\r\n  papules and comedones on the cheeks.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n . Enter history of present illness\r\n  patient here because of um acne , has previous has- history of bad acne on the face , most recently most recently she has been doing well um because she was on birth control pill Yasmin , which she is thinking of stopping it because she is worried about the side effect of birth control pills . Enter examination , very few um\r\n  papules and comedones on the cheeks . Enter [ ASSESSMENT AND PLAN ] Diagnosis , um acne vulgaris , mild . Um start patient on clinda gel in the morning and epidural at night , just spot treatment . If her conditions worse or acne worse , we will consider oral medication . Consult patient about um what to avoidant diet , in reference to acne , especially um foods um with high sugar contact",
+    "qas": [
+      {
+        "id": "46",
+        "is_impossible": true,
+        "question": "what is the date of birth(dob) of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ HISTORY OF PRESENT ILLNESS ] Patient is here for a filler . Had a filler done couple of weeks ago . She wants little more um procedure \r\n  valvular um injected to upper lip and small amount to lower lip um routine . No complication . Patient patient is happy now",
+    "qas": [
+      {
+        "id": "47",
+        "is_impossible": true,
+        "question": "what are the current medication of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " \r\n [ period ] [ HISTORY OF PRESENT ILLNESS ] Patient here is for a follow up her of her dermatitis on the arm and face , which is better with upsurura [ period ] [ EXAMINATION ] No relevant lesion today on the face or arms [ period ] [ ASSESSMENT AND PLAN ] Uhm dermatitis [ slash ] atopic , now stable with absoluteora . Patient also asking about um asthmatic treatment for her lentigoes on her hands . Um we will schedule a fracture laser to treat them . Follow up two to three weeks",
+    "qas": [
+      {
+        "id": "48",
+        "is_impossible": false,
+        "question": "what is the assessment and plan for the patient?",
+        "answers": [
+          {
+            "text": "Uhm dermatitis  slash  atopic , now stable with absoluteora. patient also asking about asthmatic treatment for her lentigoes on her hands. um we will schedule a fracture laser to treat them. follow up two to three weeks",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ HISTORY OF PRESENT ILLNESS ] Patient is here for a filler . Had a filler done couple of weeks ago . She wants little more um procedure \r\n  valvular um injected to upper lip and small amount to lower lip um routine . No complication . Patient patient is happy now",
+    "qas": [
+      {
+        "id": "49",
+        "is_impossible": true,
+        "question": "what is the review of systems of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n . Enter history of present illness\r\n  patient here because of um acne , has previous has- history of bad acne on the face , most recently most recently she has been doing well um because she was on birth control pill Yasmin , which she is thinking of stopping it because she is worried about the side effect of birth control pills . Enter examination , very few um\r\n  papules and comedones on the cheeks . Enter [ ASSESSMENT AND PLAN ] Diagnosis , um acne vulgaris , mild . Um start patient on clinda gel in the morning and epidural at night , just spot treatment . If her conditions worse or acne worse , we will consider oral medication . Consult patient about um what to avoidant diet , in reference to acne , especially um foods um with high sugar contact",
+    "qas": [
+      {
+        "id": "50",
+        "is_impossible": false,
+        "question": "what is the assessment and plan for the patient?",
+        "answers": [
+          {
+            "text": "Diagnosis , acne vulgaris , mild. um start patient on clinda gel in the morning and epidural at night , just spot treatment. if her conditions worse or acne worse , we will consider oral medication. consult patient about what to avoidant diet , in reference to acne , especially foods with high sugar contact",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "[HISTORY OF PRESENT ILLNESS] patient has a for a rash , which has been present for many weeks . Also have some mild itching and pain in the area . Otherwise , no associated symptoms and he has tried over-the-counter creams and Benadryl without any benefits . Patient worried this may be an infection and should he avoid meeting other people",
+    "qas": [
+      {
+        "id": "51",
+        "is_impossible": true,
+        "question": "what is the name of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ HISTORY OF PRESENT ILLNESS ] Patrick is here today for his yearly skin check . Otherwise , not concerned about any special lesion on any part of the body and have no other associated symptoms of any other um medical conditions [ period ] [ EXAMINATION ] A several scattered seborrheic keratosis of the trunk\r\n  few um hyperpigmented papules on the face\r\n  and slight xerosis with mild scaling on um legs [ period ] [ ASSESSMENT AND PLAN ] Seborric keratosis scattered over trunk , no treatment [ comma ] nevi scattered over extremities and face , no treatment \r\n  Slight xerosis on the legs . Um no treatment . Patient advised on skilled care protection and the and the importance of moisturizing his skin . Follow up in one year or earlier\r\n as needed",
+    "qas": [
+      {
+        "id": "52",
+        "is_impossible": true,
+        "question": "what is the procedure recommended to the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "[HISTORY OF PRESENT ILLNESS] patient has a for a rash , which has been present for many weeks . Also have some mild itching and pain in the area . Otherwise , no associated symptoms and he has tried over-the-counter creams and Benadryl without any benefits . Patient worried this may be an infection and should he avoid meeting other people",
+    "qas": [
+      {
+        "id": "53",
+        "is_impossible": true,
+        "question": "what is the date of birth(dob) of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n . Enter history of present illness\r\n  patient here because of um acne , has previous has- history of bad acne on the face , most recently most recently she has been doing well um because she was on birth control pill Yasmin , which she is thinking of stopping it because she is worried about the side effect of birth control pills . Enter examination , very few um\r\n  papules and comedones on the cheeks . Enter [ ASSESSMENT AND PLAN ] Diagnosis , um acne vulgaris , mild . Um start patient on clinda gel in the morning and epidural at night , just spot treatment . If her conditions worse or acne worse , we will consider oral medication . Consult patient about um what to avoidant diet , in reference to acne , especially um foods um with high sugar contact",
+    "qas": [
+      {
+        "id": "54",
+        "is_impossible": true,
+        "question": "how old is the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "74-year-old male patient Jean D. was seen on February 6, 2023 as a follow-up patient.",
+    "qas": [
+      {
+        "id": "55",
+        "is_impossible": true,
+        "question": "what is the date of birth(dob) of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " \r\n [ period ] [ HISTORY OF PRESENT ILLNESS ] Patient here is for a follow up her of her dermatitis on the arm and face , which is better with upsurura [ period ] [ EXAMINATION ] No relevant lesion today on the face or arms [ period ] [ ASSESSMENT AND PLAN ] Uhm dermatitis [ slash ] atopic , now stable with absoluteora . Patient also asking about um asthmatic treatment for her lentigoes on her hands . Um we will schedule a fracture laser to treat them . Follow up two to three weeks",
+    "qas": [
+      {
+        "id": "56",
+        "is_impossible": true,
+        "question": "what is the procedure recommended to the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " \r\n [ period ] [ HISTORY OF PRESENT ILLNESS ] Patient here is for a follow up her of her dermatitis on the arm and face , which is better with upsurura [ period ] [ EXAMINATION ] No relevant lesion today on the face or arms [ period ] [ ASSESSMENT AND PLAN ] Uhm dermatitis [ slash ] atopic , now stable with absoluteora . Patient also asking about um asthmatic treatment for her lentigoes on her hands . Um we will schedule a fracture laser to treat them . Follow up two to three weeks",
+    "qas": [
+      {
+        "id": "57",
+        "is_impossible": true,
+        "question": "how old is the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " \r\n HISTORY OF PRESENT ILLNESS Patient is a 30 -year-old female presenting here today for a full skin exam . Examination , patient reports two puffs located on the trunk",
+    "qas": [
+      {
+        "id": "58",
+        "is_impossible": true,
+        "question": "what is the assessment and plan for the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " \r\n [ period ] [ HISTORY OF PRESENT ILLNESS ] Patient here is for a follow up her of her dermatitis on the arm and face , which is better with upsurura [ period ] [ EXAMINATION ] No relevant lesion today on the face or arms [ period ] [ ASSESSMENT AND PLAN ] Uhm dermatitis [ slash ] atopic , now stable with absoluteora . Patient also asking about um asthmatic treatment for her lentigoes on her hands . Um we will schedule a fracture laser to treat them . Follow up two to three weeks",
+    "qas": [
+      {
+        "id": "59",
+        "is_impossible": true,
+        "question": "what is the review of systems of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "74-year-old male patient Jean D. was seen on February 6, 2023 as a follow-up patient.",
+    "qas": [
+      {
+        "id": "60",
+        "is_impossible": true,
+        "question": "what are the allergies of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "[HISTORY OF PRESENT ILLNESS] patient has a for a rash , which has been present for many weeks . Also have some mild itching and pain in the area . Otherwise , no associated symptoms and he has tried over-the-counter creams and Benadryl without any benefits . Patient worried this may be an infection and should he avoid meeting other people",
+    "qas": [
+      {
+        "id": "61",
+        "is_impossible": true,
+        "question": "what are the current medication of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "Sam is a 35 -year-old male patient seen on Dec 20 , 2022 as a follow up enter . PAST MEDICAL HISTORY Personal history of skin cancer , MM , no . FAMILY HISTORY Skin cancer , no family history of melanoma , no alcohol , no smoker , never smoker . Enter allergies . No known drug allergies . Enter current medications . No known medications . Enter [ REVIEW OF SYSTEMS ] Skin , see HPI . General , no fever , sweats , or chills . Enter history of present illness . Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV . Exa- enter [ EXAMINATION ] Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk . Coumadin , small number of inflammatory papules and pustules and hyperpigmented backdoes located on the face . Enter [ ASSESSMENT AND PLAN ] Psoriasis , plaque . Management options were discussed including top\\n  steroids , nonsteroidals , UV , and systemic therapy . Risks and benefits of each were reviewed . Patient's opted to proceed with the following treatments . Patient declines systemic therapy at this time . Start Veta , apply once daily to affected areas . Continue with home UV treatments . Acne will go . Management options were discussed including extractions , topicals , acne wash and oral medication . Risks and benefits of each reviewed . Patient opted to proceed with the following treatment . Start benazepril peroxide wash [ period ] Recommended\\n  begin over-the-counter Bentyl , paroxetine cleanser , Pinoxol 10% , acne wash b.i.d. Avoid getting cleanser into ice inside nose or mouth . Long hand after using cleanser . Advised patient that BP all made bleach , hair or fabrics . Use carefully , avoid contact with clothing , hair , and surroundings . Follow up after three months for follow up",
+    "qas": [
+      {
+        "id": "62",
+        "is_impossible": false,
+        "question": "what is the past medical history of the patient?",
+        "answers": [
+          {
+            "text": "Personal history of skin cancer , MM , no. FAMILY HISTORY Skin cancer , no family history of melanoma , no alcohol , no smoker , never smoker.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ HISTORY OF PRESENT ILLNESS ] Patient is here for a filler . Had a filler done couple of weeks ago . She wants little more um procedure \r\n  valvular um injected to upper lip and small amount to lower lip um routine . No complication . Patient patient is happy now",
+    "qas": [
+      {
+        "id": "63",
+        "is_impossible": false,
+        "question": "what is the history of present illness of the patient?",
+        "answers": [
+          {
+            "text": "Patient is here for a filler. had a filler done couple of weeks ago. she wants little more procedure \r\n  valvular injected to upper lip and small amount to lower lip routine. no complication. patient patient is happy now",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ HISTORY OF PRESENT ILLNESS ] Patrick is here today for his yearly skin check . Otherwise , not concerned about any special lesion on any part of the body and have no other associated symptoms of any other um medical conditions [ period ] [ EXAMINATION ] A several scattered seborrheic keratosis of the trunk\r\n  few um hyperpigmented papules on the face\r\n  and slight xerosis with mild scaling on um legs [ period ] [ ASSESSMENT AND PLAN ] Seborric keratosis scattered over trunk , no treatment [ comma ] nevi scattered over extremities and face , no treatment \r\n  Slight xerosis on the legs . Um no treatment . Patient advised on skilled care protection and the and the importance of moisturizing his skin . Follow up in one year or earlier\r\n as needed",
+    "qas": [
+      {
+        "id": "64",
+        "is_impossible": true,
+        "question": "how old is the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "[HISTORY OF PRESENT ILLNESS] patient has a for a rash , which has been present for many weeks . Also have some mild itching and pain in the area . Otherwise , no associated symptoms and he has tried over-the-counter creams and Benadryl without any benefits . Patient worried this may be an infection and should he avoid meeting other people",
+    "qas": [
+      {
+        "id": "65",
+        "is_impossible": true,
+        "question": "what are the allergies of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter history of present illness\r\n  patient here for a full skin check . She is worried about few spots on her left arm . Also have history of um eczema , hand eczema , and some um lesions on the in the cheek , in the past . Otherwise , no associated illness today . Enter examination\r\n  um slight scaling and erythema of lips\r\n  and um several um brown verrucous papules on the back along with several common nevi on the trunk and extremities , enter assessment and plan . Number one , um possible contact with dermatitis on the lips um prescribed Elidal cream just to the lips um twice a day and ketoconazole cream to the angle of um mouth just for um one week once a day\r\n  also patient have history of eczema on the hands , which for which she already had baromethasone cream . She will continue that\r\n  um on skin examination for skin check um most of the le- um all the lesions are benign . Nevi and seborrheic keratosis , no treatment needed today . Patient advised to avoid sun , where sunscreen and follow up if any of these region change . Otherwise , she will be here in six months",
+    "qas": [
+      {
+        "id": "66",
+        "is_impossible": false,
+        "question": "what is the assessment and plan for the patient?",
+        "answers": [
+          {
+            "text": "Number one , possible contact with dermatitis on the lips prescribed elidal cream just to the lips twice a day and ketoconazole cream to the angle of mouth just for one week once a day\r\n  also patient have history of eczema on the hands , which for which she already had baromethasone cream. she will continue that\r\n  on skin examination for skin check most of the le- all the lesions are benign. nevi and seborrheic keratosis , no treatment needed today. patient advised to avoid sun , where sunscreen and follow up if any of these region change. otherwise , she will be here in six months",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ HISTORY OF PRESENT ILLNESS ] Patient is here for a filler . Had a filler done couple of weeks ago . She wants little more um procedure \r\n  valvular um injected to upper lip and small amount to lower lip um routine . No complication . Patient patient is happy now",
+    "qas": [
+      {
+        "id": "67",
+        "is_impossible": true,
+        "question": "what is the mrn of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "74-year-old male patient Jean D. was seen on February 6, 2023 as a follow-up patient.",
+    "qas": [
+      {
+        "id": "68",
+        "is_impossible": true,
+        "question": "what is the assessment and plan for the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " \r\n HISTORY OF PRESENT ILLNESS Patient is a 30 -year-old female presenting here today for a full skin exam . Examination , patient reports two puffs located on the trunk",
+    "qas": [
+      {
+        "id": "69",
+        "is_impossible": false,
+        "question": "what is the history of present illness of the patient?",
+        "answers": [
+          {
+            "text": "Patient is a 30 -year-old female presenting here today for a full skin exam. Examination , patient reports two puffs located on the trunk",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "74-year-old male patient Jean D. was seen on February 6, 2023 as a follow-up patient.",
+    "qas": [
+      {
+        "id": "70",
+        "is_impossible": true,
+        "question": "what is the examination of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n patient is a 30 -year-old female presenting for a full skin exam . Enter examination \r\n  patient presents with 2 cm umbilicated\r\n pl",
+    "qas": [
+      {
+        "id": "71",
+        "is_impossible": false,
+        "question": "what is the examination of the patient?",
+        "answers": [
+          {
+            "text": "\r\n  patient presents with 2 cm umbilicated\r\n pl",
+            "answer_start": 88
+          }
+        ]
+      }
+    ]
+  }
+]

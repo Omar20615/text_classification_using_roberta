@@ -1,0 +1,796 @@
+[
+  {
+    "context": "Sam is a 35 -year-old male patient seen on Dec 20 , 2022 as a follow up enter . PAST MEDICAL HISTORY Personal history of skin cancer , MM , no . FAMILY HISTORY Skin cancer , no family history of melanoma , no alcohol , no smoker , never smoker . Enter allergies . No known drug allergies . Enter current medications . No known medications . Enter [ REVIEW OF SYSTEMS ] Skin , see HPI . General , no fever , sweats , or chills . Enter history of present illness . Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV . Exa- enter [ EXAMINATION ] Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk . Coumadin , small number of inflammatory papules and pustules and hyperpigmented backdoes located on the face . Enter [ ASSESSMENT AND PLAN ] Psoriasis , plaque . Management options were discussed including top\r\n  steroids , nonsteroidals , UV , and systemic therapy . Risks and benefits of each were reviewed . Patient's opted to proceed with the following treatments . Patient declines systemic therapy at this time . Start Veta , apply once daily to affected areas . Continue with home UV treatments . Acne will go . Management options were discussed including extractions , topicals , acne wash and oral medication . Risks and benefits of each reviewed . Patient opted to proceed with the following treatment . Start benazepril peroxide wash [ period ] Recommended\r\n  begin over-the-counter Bentyl , paroxetine cleanser , Pinoxol 10% , acne wash b.i.d. Avoid getting cleanser into ice inside nose or mouth . Long hand after using cleanser . Advised patient that BP all made bleach , hair or fabrics . Use carefully , avoid contact with clothing , hair , and surroundings . Follow up after three months for follow up",
+    "qas": [
+      {
+        "id": "1",
+        "is_impossible": false,
+        "question": "what is the history of present illness of the patient?",
+        "answers": [
+          {
+            "text": "Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period HISTORY OF PRESENT ILLNESS\r\n  Number one ,\r\n  patient here for few bumps on his chest and arms\r\n  Number two ,\r\n  he has few spots on his lips\r\n  period Examination\r\n  Number one ,\r\n  excoriated follicular papules\r\n  on arms and chest\r\n  Number two , 2 to 3 mm flat\r\n  brown macules on the lips\r\n  period ] [ ASSESSMENT AND PLAN ]\r\n  Number one , possible folliculitis\r\n  start doxycycline 100 mg and benzol peroxide wash daily\r\n  Number two , labial lentigines\r\n  patient otherwise healthy . No other association . As patient to consult is GP for possible um ruling out polyposis\r\n  and also gave him topical um Oct cream\r\n  follow up in um a month",
+    "qas": [
+      {
+        "id": "2",
+        "is_impossible": false,
+        "question": "what is the history of present illness of the patient?",
+        "answers": [
+          {
+            "text": "Number one ,\r\n  patient here for few bumps on his chest and arms\r\n  Number two ,\r\n  he has few spots on his lips",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n Enter past medical history\r\n  hypertension\r\n  glycemia\r\n  . Enter history of present illness\r\n  fatty liver\r\n  Enter allergies\r\n  no known allergies\r\n  Enter examination . No examination done\r\n  enter current medication\r\n  Exforge , Phenergan\r\n  enter assessment and plan\r\n  the patient is\r\n  checked thoroughly\r\n  and has been screened . No pathogens found in the blood\r\n  until review\r\n  enter procedure . The patient requires surgical procedure\r\n  to remove\r\n  the skin\r\n  from the forehead .",
+    "qas": [
+      {
+        "id": "3",
+        "is_impossible": false,
+        "question": "what are the current medication of the patient?",
+        "answers": [
+          {
+            "text": "Current medication\r\n  exforge , phenergan",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Sam is a 35 -year-old male patient seen on Dec 20 , 2022 as a follow up enter . PAST MEDICAL HISTORY Personal history of skin cancer , MM , no . FAMILY HISTORY Skin cancer , no family history of melanoma , no alcohol , no smoker , never smoker . Enter allergies . No known drug allergies . Enter current medications . No known medications . Enter [ REVIEW OF SYSTEMS ] Skin , see HPI . General , no fever , sweats , or chills . Enter history of present illness . Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV . Exa- enter [ EXAMINATION ] Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk . Coumadin , small number of inflammatory papules and pustules and hyperpigmented backdoes located on the face . Enter [ ASSESSMENT AND PLAN ] Psoriasis , plaque . Management options were discussed including top\r\n  steroids , nonsteroidals , UV , and systemic therapy . Risks and benefits of each were reviewed . Patient's opted to proceed with the following treatments . Patient declines systemic therapy at this time . Start Veta , apply once daily to affected areas . Continue with home UV treatments . Acne will go . Management options were discussed including extractions , topicals , acne wash and oral medication . Risks and benefits of each reviewed . Patient opted to proceed with the following treatment . Start benazepril peroxide wash [ period ] Recommended\r\n  begin over-the-counter Bentyl , paroxetine cleanser , Pinoxol 10% , acne wash b.i.d. Avoid getting cleanser into ice inside nose or mouth . Long hand after using cleanser . Advised patient that BP all made bleach , hair or fabrics . Use carefully , avoid contact with clothing , hair , and surroundings . Follow up after three months for follow up",
+    "qas": [
+      {
+        "id": "4",
+        "is_impossible": false,
+        "question": "what are the allergies of the patient?",
+        "answers": [
+          {
+            "text": "No known drug allergies.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n Enter past medical history\r\n  hypertension\r\n  glycemia\r\n  . Enter history of present illness\r\n  fatty liver\r\n  Enter allergies\r\n  no known allergies\r\n  Enter examination . No examination done\r\n  enter current medication\r\n  Exforge , Phenergan\r\n  enter assessment and plan\r\n  the patient is\r\n  checked thoroughly\r\n  and has been screened . No pathogens found in the blood\r\n  until review\r\n  enter procedure . The patient requires surgical procedure\r\n  to remove\r\n  the skin\r\n  from the forehead .",
+    "qas": [
+      {
+        "id": "5",
+        "is_impossible": false,
+        "question": "what is the procedure recommended to the patient?",
+        "answers": [
+          {
+            "text": "The patient requires surgical procedure\r\n  to remove\r\n  the skin\r\n  from the forehead.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Sam is a 35 -year-old male patient seen on Dec 20 , 2022 as a follow up enter . PAST MEDICAL HISTORY Personal history of skin cancer , MM , no . FAMILY HISTORY Skin cancer , no family history of melanoma , no alcohol , no smoker , never smoker . Enter allergies . No known drug allergies . Enter current medications . No known medications . Enter [ REVIEW OF SYSTEMS ] Skin , see HPI . General , no fever , sweats , or chills . Enter history of present illness . Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV . Exa- enter [ EXAMINATION ] Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk . Coumadin , small number of inflammatory papules and pustules and hyperpigmented backdoes located on the face . Enter [ ASSESSMENT AND PLAN ] Psoriasis , plaque . Management options were discussed including top\r\n  steroids , nonsteroidals , UV , and systemic therapy . Risks and benefits of each were reviewed . Patient's opted to proceed with the following treatments . Patient declines systemic therapy at this time . Start Veta , apply once daily to affected areas . Continue with home UV treatments . Acne will go . Management options were discussed including extractions , topicals , acne wash and oral medication . Risks and benefits of each reviewed . Patient opted to proceed with the following treatment . Start benazepril peroxide wash [ period ] Recommended\r\n  begin over-the-counter Bentyl , paroxetine cleanser , Pinoxol 10% , acne wash b.i.d. Avoid getting cleanser into ice inside nose or mouth . Long hand after using cleanser . Advised patient that BP all made bleach , hair or fabrics . Use carefully , avoid contact with clothing , hair , and surroundings . Follow up after three months for follow up",
+    "qas": [
+      {
+        "id": "6",
+        "is_impossible": false,
+        "question": "what is the review of systems of the patient?",
+        "answers": [
+          {
+            "text": "Skin , see HPI. General , no fever , sweats , or chills.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Sam is a 35 -year-old male patient seen on Dec 20 , 2022 as a follow up enter . PAST MEDICAL HISTORY Personal history of skin cancer , MM , no . FAMILY HISTORY Skin cancer , no family history of melanoma , no alcohol , no smoker , never smoker . Enter allergies . No known drug allergies . Enter current medications . No known medications . Enter [ REVIEW OF SYSTEMS ] Skin , see HPI . General , no fever , sweats , or chills . Enter history of present illness . Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV . Exa- enter [ EXAMINATION ] Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk . Coumadin , small number of inflammatory papules and pustules and hyperpigmented backdoes located on the face . Enter [ ASSESSMENT AND PLAN ] Psoriasis , plaque . Management options were discussed including top\r\n  steroids , nonsteroidals , UV , and systemic therapy . Risks and benefits of each were reviewed . Patient's opted to proceed with the following treatments . Patient declines systemic therapy at this time . Start Veta , apply once daily to affected areas . Continue with home UV treatments . Acne will go . Management options were discussed including extractions , topicals , acne wash and oral medication . Risks and benefits of each reviewed . Patient opted to proceed with the following treatment . Start benazepril peroxide wash [ period ] Recommended\r\n  begin over-the-counter Bentyl , paroxetine cleanser , Pinoxol 10% , acne wash b.i.d. Avoid getting cleanser into ice inside nose or mouth . Long hand after using cleanser . Advised patient that BP all made bleach , hair or fabrics . Use carefully , avoid contact with clothing , hair , and surroundings . Follow up after three months for follow up",
+    "qas": [
+      {
+        "id": "7",
+        "is_impossible": false,
+        "question": "what is the name of the patient?",
+        "answers": [
+          {
+            "text": "Sam",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n Enter past medical history\r\n  hypertension\r\n  glycemia\r\n  . Enter history of present illness\r\n  fatty liver\r\n  Enter allergies\r\n  no known allergies\r\n  Enter examination . No examination done\r\n  enter current medication\r\n  Exforge , Phenergan\r\n  enter assessment and plan\r\n  the patient is\r\n  checked thoroughly\r\n  and has been screened . No pathogens found in the blood\r\n  until review\r\n  enter procedure . The patient requires surgical procedure\r\n  to remove\r\n  the skin\r\n  from the forehead .",
+    "qas": [
+      {
+        "id": "8",
+        "is_impossible": true,
+        "question": "what is the mrn of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ EXAMINATION ]\r\n  patient has a very uncommon types types of moles and um crackles scattered over extremities\r\n  and um feet\r\n  most of the lesions are small 2 to 5 mm macules um with light brown um color\r\n  otherwise um I see no change in lesions from um a previous visit . Patient's um photos taken last time for the moles are compared today and I see no change\r\n  ASSESSMENT AND PLAN\r\n  nevi [ slash ] freckles . Patient has history of for many , many years\r\n  no new change\r\n  will follow up in six months . Advised patient to continue to protect from son and if she signs any change , which is significant then let us know before six months .",
+    "qas": [
+      {
+        "id": "9",
+        "is_impossible": false,
+        "question": "what is the examination of the patient?",
+        "answers": [
+          {
+            "text": "Patient has a very uncommon types types of moles and crackles scattered over extremities\r\n  and feet\r\n  most of the lesions are small 2 to 5 mm macules with light brown color\r\n  otherwise i see no change in lesions from a previous visit. patient's photos taken last time for the moles are compared today and i see no change\r\n",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ EXAMINATION ]\r\n  patient has a very uncommon types types of moles and um crackles scattered over extremities\r\n  and um feet\r\n  most of the lesions are small 2 to 5 mm macules um with light brown um color\r\n  otherwise um I see no change in lesions from um a previous visit . Patient's um photos taken last time for the moles are compared today and I see no change\r\n  ASSESSMENT AND PLAN\r\n  nevi [ slash ] freckles . Patient has history of for many , many years\r\n  no new change\r\n  will follow up in six months . Advised patient to continue to protect from son and if she signs any change , which is significant then let us know before six months .",
+    "qas": [
+      {
+        "id": "10",
+        "is_impossible": false,
+        "question": "what is the assessment and plan for the patient?",
+        "answers": [
+          {
+            "text": "nevi  slash  freckles. patient has history of for many , many years\r\n  no new change\r\n  will follow up in six months. advised patient to continue to protect from son and if she signs any change , which is significant then let us know before six months.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter . [ HISTORY OF PRESENT ILLNESS ] Patient here for follow up of his plantar warts , which has been treated several times before . As per patient , um the lesions are getting smaller and he like to continue\r\n  enterexamination um two slightly verrucous papule on left dorsal foot and a new lesion on l- little toe . enter assessment and plan\r\n  um verruca vulgaris\r\n  um routine cryotherapy performed on three of the lesion on the foot . Other than mild cirrhosis for that , advised patient to use um emollients um follow up two to three weeks",
+    "qas": [
+      {
+        "id": "11",
+        "is_impossible": false,
+        "question": "what is the history of present illness of the patient?",
+        "answers": [
+          {
+            "text": "Patient here for follow up of his plantar warts , which has been treated several times before. as per patient , the lesions are getting smaller and he like to continue",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ EXAMINATION ]\r\n  patient has a very uncommon types types of moles and um crackles scattered over extremities\r\n  and um feet\r\n  most of the lesions are small 2 to 5 mm macules um with light brown um color\r\n  otherwise um I see no change in lesions from um a previous visit . Patient's um photos taken last time for the moles are compared today and I see no change\r\n  ASSESSMENT AND PLAN\r\n  nevi [ slash ] freckles . Patient has history of for many , many years\r\n  no new change\r\n  will follow up in six months . Advised patient to continue to protect from son and if she signs any change , which is significant then let us know before six months .",
+    "qas": [
+      {
+        "id": "12",
+        "is_impossible": true,
+        "question": "what is the past medical history of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ]\r\n  history of present illness . Patient is here because he is concerned about a growth under left eyelid and several other growths on his back\r\n  period ] Examination , a verrucous um papule under left eyelid\r\n  Number two ,\r\n  scattered seborrheic keratosis on the trunk . Number three , few nevi on the legs [ period ] [ ASSESSMENT AND PLAN ] Number one , skin tag under left eyelid , no treatment , told patient if he wishes it can be removed . Number two , scattered seborrheic keratosis on the trunk . No treatment . Number three , few um [ comma ] nevi on the legs . No treatment . Patient to follow up in a year or earlier if um some concerns",
+    "qas": [
+      {
+        "id": "13",
+        "is_impossible": false,
+        "question": "what is the examination of the patient?",
+        "answers": [
+          {
+            "text": "A verrucous papule under left eyelid\r\n  number two ,\r\n  scattered seborrheic keratosis on the trunk. number three , few nevi on the legs",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ]\r\n  history of present illness . Patient is here because he is concerned about a growth under left eyelid and several other growths on his back\r\n  period ] Examination , a verrucous um papule under left eyelid\r\n  Number two ,\r\n  scattered seborrheic keratosis on the trunk . Number three , few nevi on the legs [ period ] [ ASSESSMENT AND PLAN ] Number one , skin tag under left eyelid , no treatment , told patient if he wishes it can be removed . Number two , scattered seborrheic keratosis on the trunk . No treatment . Number three , few um [ comma ] nevi on the legs . No treatment . Patient to follow up in a year or earlier if um some concerns",
+    "qas": [
+      {
+        "id": "14",
+        "is_impossible": false,
+        "question": "what is the history of present illness of the patient?",
+        "answers": [
+          {
+            "text": "Patient is here because he is concerned about a growth under left eyelid and several other growths on his back",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ]\r\n  history of present illness . Patient is here because he is concerned about a growth under left eyelid and several other growths on his back\r\n  period ] Examination , a verrucous um papule under left eyelid\r\n  Number two ,\r\n  scattered seborrheic keratosis on the trunk . Number three , few nevi on the legs [ period ] [ ASSESSMENT AND PLAN ] Number one , skin tag under left eyelid , no treatment , told patient if he wishes it can be removed . Number two , scattered seborrheic keratosis on the trunk . No treatment . Number three , few um [ comma ] nevi on the legs . No treatment . Patient to follow up in a year or earlier if um some concerns",
+    "qas": [
+      {
+        "id": "15",
+        "is_impossible": false,
+        "question": "what is the assessment and plan for the patient?",
+        "answers": [
+          {
+            "text": "Number one , skin tag under left eyelid , no treatment , told patient if he wishes it can be removed. number two , scattered seborrheic keratosis on the trunk. no treatment. number three , few  comma  nevi on the legs. no treatment. patient to follow up in a year or earlier if some concerns",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period HISTORY OF PRESENT ILLNESS\r\n  Number one ,\r\n  patient here for few bumps on his chest and arms\r\n  Number two ,\r\n  he has few spots on his lips\r\n  period Examination\r\n  Number one ,\r\n  excoriated follicular papules\r\n  on arms and chest\r\n  Number two , 2 to 3 mm flat\r\n  brown macules on the lips\r\n  period ] [ ASSESSMENT AND PLAN ]\r\n  Number one , possible folliculitis\r\n  start doxycycline 100 mg and benzol peroxide wash daily\r\n  Number two , labial lentigines\r\n  patient otherwise healthy . No other association . As patient to consult is GP for possible um ruling out polyposis\r\n  and also gave him topical um Oct cream\r\n  follow up in um a month",
+    "qas": [
+      {
+        "id": "16",
+        "is_impossible": true,
+        "question": "what is the procedure recommended to the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " Enter history of present illness . Patient is here for a reflectance of confocal microscopy of lesion on mid back . Patient was referred by viral dermatology . Enter examination , hyperpigmented brown papules and macules located on mid back . Enter [ ASSESSMENT AND PLAN ] Nevus common inflamed . assured the patient that these lesions are common moles , which are benign . No treatment is currently indicated . Advised patient to come in at least annually for a full skin check . If anything changes , then schedule appointment to be seen . Over-the-counter SPF 30 is recommended daily",
+    "qas": [
+      {
+        "id": "17",
+        "is_impossible": true,
+        "question": "what is the date of birth(dob) of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ EXAMINATION ]\r\n  patient has a very uncommon types types of moles and um crackles scattered over extremities\r\n  and um feet\r\n  most of the lesions are small 2 to 5 mm macules um with light brown um color\r\n  otherwise um I see no change in lesions from um a previous visit . Patient's um photos taken last time for the moles are compared today and I see no change\r\n  ASSESSMENT AND PLAN\r\n  nevi [ slash ] freckles . Patient has history of for many , many years\r\n  no new change\r\n  will follow up in six months . Advised patient to continue to protect from son and if she signs any change , which is significant then let us know before six months .",
+    "qas": [
+      {
+        "id": "18",
+        "is_impossible": true,
+        "question": "what is the name of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " Enter history of present illness . Patient is here for a reflectance of confocal microscopy of lesion on mid back . Patient was referred by viral dermatology . Enter examination , hyperpigmented brown papules and macules located on mid back . Enter [ ASSESSMENT AND PLAN ] Nevus common inflamed . assured the patient that these lesions are common moles , which are benign . No treatment is currently indicated . Advised patient to come in at least annually for a full skin check . If anything changes , then schedule appointment to be seen . Over-the-counter SPF 30 is recommended daily",
+    "qas": [
+      {
+        "id": "19",
+        "is_impossible": false,
+        "question": "what is the history of present illness of the patient?",
+        "answers": [
+          {
+            "text": "Patient is here for a reflectance of confocal microscopy of lesion on mid back. Patient was referred by viral dermatology.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": " Enter history of present illness . Patient is here for a reflectance of confocal microscopy of lesion on mid back . Patient was referred by viral dermatology . Enter examination , hyperpigmented brown papules and macules located on mid back . Enter [ ASSESSMENT AND PLAN ] Nevus common inflamed . assured the patient that these lesions are common moles , which are benign . No treatment is currently indicated . Advised patient to come in at least annually for a full skin check . If anything changes , then schedule appointment to be seen . Over-the-counter SPF 30 is recommended daily",
+    "qas": [
+      {
+        "id": "20",
+        "is_impossible": true,
+        "question": "what is the mrn of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ]\r\n  history of present illness . Patient is here because he is concerned about a growth under left eyelid and several other growths on his back\r\n  period ] Examination , a verrucous um papule under left eyelid\r\n  Number two ,\r\n  scattered seborrheic keratosis on the trunk . Number three , few nevi on the legs [ period ] [ ASSESSMENT AND PLAN ] Number one , skin tag under left eyelid , no treatment , told patient if he wishes it can be removed . Number two , scattered seborrheic keratosis on the trunk . No treatment . Number three , few um [ comma ] nevi on the legs . No treatment . Patient to follow up in a year or earlier if um some concerns",
+    "qas": [
+      {
+        "id": "21",
+        "is_impossible": true,
+        "question": "what is the review of systems of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ]\r\n  history of present illness . Patient is here because he is concerned about a growth under left eyelid and several other growths on his back\r\n  period ] Examination , a verrucous um papule under left eyelid\r\n  Number two ,\r\n  scattered seborrheic keratosis on the trunk . Number three , few nevi on the legs [ period ] [ ASSESSMENT AND PLAN ] Number one , skin tag under left eyelid , no treatment , told patient if he wishes it can be removed . Number two , scattered seborrheic keratosis on the trunk . No treatment . Number three , few um [ comma ] nevi on the legs . No treatment . Patient to follow up in a year or earlier if um some concerns",
+    "qas": [
+      {
+        "id": "22",
+        "is_impossible": true,
+        "question": "what is the mrn of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "Sam is a 35 -year-old male patient seen on Dec 20 , 2022 as a follow up enter . PAST MEDICAL HISTORY Personal history of skin cancer , MM , no . FAMILY HISTORY Skin cancer , no family history of melanoma , no alcohol , no smoker , never smoker . Enter allergies . No known drug allergies . Enter current medications . No known medications . Enter [ REVIEW OF SYSTEMS ] Skin , see HPI . General , no fever , sweats , or chills . Enter history of present illness . Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV . Exa- enter [ EXAMINATION ] Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk . Coumadin , small number of inflammatory papules and pustules and hyperpigmented backdoes located on the face . Enter [ ASSESSMENT AND PLAN ] Psoriasis , plaque . Management options were discussed including top\r\n  steroids , nonsteroidals , UV , and systemic therapy . Risks and benefits of each were reviewed . Patient's opted to proceed with the following treatments . Patient declines systemic therapy at this time . Start Veta , apply once daily to affected areas . Continue with home UV treatments . Acne will go . Management options were discussed including extractions , topicals , acne wash and oral medication . Risks and benefits of each reviewed . Patient opted to proceed with the following treatment . Start benazepril peroxide wash [ period ] Recommended\r\n  begin over-the-counter Bentyl , paroxetine cleanser , Pinoxol 10% , acne wash b.i.d. Avoid getting cleanser into ice inside nose or mouth . Long hand after using cleanser . Advised patient that BP all made bleach , hair or fabrics . Use carefully , avoid contact with clothing , hair , and surroundings . Follow up after three months for follow up",
+    "qas": [
+      {
+        "id": "23",
+        "is_impossible": true,
+        "question": "what is the procedure recommended to the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " Enter history of present illness . Patient is here for a reflectance of confocal microscopy of lesion on mid back . Patient was referred by viral dermatology . Enter examination , hyperpigmented brown papules and macules located on mid back . Enter [ ASSESSMENT AND PLAN ] Nevus common inflamed . assured the patient that these lesions are common moles , which are benign . No treatment is currently indicated . Advised patient to come in at least annually for a full skin check . If anything changes , then schedule appointment to be seen . Over-the-counter SPF 30 is recommended daily",
+    "qas": [
+      {
+        "id": "24",
+        "is_impossible": true,
+        "question": "what are the current medication of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " Enter history of present illness . Patient is here for a reflectance of confocal microscopy of lesion on mid back . Patient was referred by viral dermatology . Enter examination , hyperpigmented brown papules and macules located on mid back . Enter [ ASSESSMENT AND PLAN ] Nevus common inflamed . assured the patient that these lesions are common moles , which are benign . No treatment is currently indicated . Advised patient to come in at least annually for a full skin check . If anything changes , then schedule appointment to be seen . Over-the-counter SPF 30 is recommended daily",
+    "qas": [
+      {
+        "id": "25",
+        "is_impossible": true,
+        "question": "how old is the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " Enter history of present illness . Patient is here for a reflectance of confocal microscopy of lesion on mid back . Patient was referred by viral dermatology . Enter examination , hyperpigmented brown papules and macules located on mid back . Enter [ ASSESSMENT AND PLAN ] Nevus common inflamed . assured the patient that these lesions are common moles , which are benign . No treatment is currently indicated . Advised patient to come in at least annually for a full skin check . If anything changes , then schedule appointment to be seen . Over-the-counter SPF 30 is recommended daily",
+    "qas": [
+      {
+        "id": "26",
+        "is_impossible": false,
+        "question": "what is the assessment and plan for the patient?",
+        "answers": [
+          {
+            "text": "Nevus common inflamed. assured the patient that these lesions are common moles , which are benign. No treatment is currently indicated. Advised patient to come in at least annually for a full skin check. If anything changes , then schedule appointment to be seen. Over-the-counter SPF 30 is recommended daily",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ]\r\n  history of present illness . Patient is here because he is concerned about a growth under left eyelid and several other growths on his back\r\n  period ] Examination , a verrucous um papule under left eyelid\r\n  Number two ,\r\n  scattered seborrheic keratosis on the trunk . Number three , few nevi on the legs [ period ] [ ASSESSMENT AND PLAN ] Number one , skin tag under left eyelid , no treatment , told patient if he wishes it can be removed . Number two , scattered seborrheic keratosis on the trunk . No treatment . Number three , few um [ comma ] nevi on the legs . No treatment . Patient to follow up in a year or earlier if um some concerns",
+    "qas": [
+      {
+        "id": "27",
+        "is_impossible": true,
+        "question": "how old is the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n Enter past medical history\r\n  hypertension\r\n  glycemia\r\n  . Enter history of present illness\r\n  fatty liver\r\n  Enter allergies\r\n  no known allergies\r\n  Enter examination . No examination done\r\n  enter current medication\r\n  Exforge , Phenergan\r\n  enter assessment and plan\r\n  the patient is\r\n  checked thoroughly\r\n  and has been screened . No pathogens found in the blood\r\n  until review\r\n  enter procedure . The patient requires surgical procedure\r\n  to remove\r\n  the skin\r\n  from the forehead .",
+    "qas": [
+      {
+        "id": "28",
+        "is_impossible": false,
+        "question": "what is the assessment and plan for the patient?",
+        "answers": [
+          {
+            "text": "The patient is\r\n  checked thoroughly\r\n  and has been screened. no pathogens found in the blood\r\n  until review",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ EXAMINATION ]\r\n  patient has a very uncommon types types of moles and um crackles scattered over extremities\r\n  and um feet\r\n  most of the lesions are small 2 to 5 mm macules um with light brown um color\r\n  otherwise um I see no change in lesions from um a previous visit . Patient's um photos taken last time for the moles are compared today and I see no change\r\n  ASSESSMENT AND PLAN\r\n  nevi [ slash ] freckles . Patient has history of for many , many years\r\n  no new change\r\n  will follow up in six months . Advised patient to continue to protect from son and if she signs any change , which is significant then let us know before six months .",
+    "qas": [
+      {
+        "id": "29",
+        "is_impossible": true,
+        "question": "what are the allergies of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n Enter past medical history\r\n  hypertension\r\n  glycemia\r\n  . Enter history of present illness\r\n  fatty liver\r\n  Enter allergies\r\n  no known allergies\r\n  Enter examination . No examination done\r\n  enter current medication\r\n  Exforge , Phenergan\r\n  enter assessment and plan\r\n  the patient is\r\n  checked thoroughly\r\n  and has been screened . No pathogens found in the blood\r\n  until review\r\n  enter procedure . The patient requires surgical procedure\r\n  to remove\r\n  the skin\r\n  from the forehead .",
+    "qas": [
+      {
+        "id": "30",
+        "is_impossible": false,
+        "question": "what are the allergies of the patient?",
+        "answers": [
+          {
+            "text": "No known allergies",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n Enter past medical history\r\n  hypertension\r\n  glycemia\r\n  . Enter history of present illness\r\n  fatty liver\r\n  Enter allergies\r\n  no known allergies\r\n  Enter examination . No examination done\r\n  enter current medication\r\n  Exforge , Phenergan\r\n  enter assessment and plan\r\n  the patient is\r\n  checked thoroughly\r\n  and has been screened . No pathogens found in the blood\r\n  until review\r\n  enter procedure . The patient requires surgical procedure\r\n  to remove\r\n  the skin\r\n  from the forehead .",
+    "qas": [
+      {
+        "id": "31",
+        "is_impossible": false,
+        "question": "what is the past medical history of the patient?",
+        "answers": [
+          {
+            "text": "Hypertension\r\n  glycemia\r\n .",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period HISTORY OF PRESENT ILLNESS\r\n  Number one ,\r\n  patient here for few bumps on his chest and arms\r\n  Number two ,\r\n  he has few spots on his lips\r\n  period Examination\r\n  Number one ,\r\n  excoriated follicular papules\r\n  on arms and chest\r\n  Number two , 2 to 3 mm flat\r\n  brown macules on the lips\r\n  period ] [ ASSESSMENT AND PLAN ]\r\n  Number one , possible folliculitis\r\n  start doxycycline 100 mg and benzol peroxide wash daily\r\n  Number two , labial lentigines\r\n  patient otherwise healthy . No other association . As patient to consult is GP for possible um ruling out polyposis\r\n  and also gave him topical um Oct cream\r\n  follow up in um a month",
+    "qas": [
+      {
+        "id": "32",
+        "is_impossible": true,
+        "question": "what is the mrn of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " Enter history of present illness . Patient is here for a reflectance of confocal microscopy of lesion on mid back . Patient was referred by viral dermatology . Enter examination , hyperpigmented brown papules and macules located on mid back . Enter [ ASSESSMENT AND PLAN ] Nevus common inflamed . assured the patient that these lesions are common moles , which are benign . No treatment is currently indicated . Advised patient to come in at least annually for a full skin check . If anything changes , then schedule appointment to be seen . Over-the-counter SPF 30 is recommended daily",
+    "qas": [
+      {
+        "id": "33",
+        "is_impossible": true,
+        "question": "what is the past medical history of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period HISTORY OF PRESENT ILLNESS\r\n  Number one ,\r\n  patient here for few bumps on his chest and arms\r\n  Number two ,\r\n  he has few spots on his lips\r\n  period Examination\r\n  Number one ,\r\n  excoriated follicular papules\r\n  on arms and chest\r\n  Number two , 2 to 3 mm flat\r\n  brown macules on the lips\r\n  period ] [ ASSESSMENT AND PLAN ]\r\n  Number one , possible folliculitis\r\n  start doxycycline 100 mg and benzol peroxide wash daily\r\n  Number two , labial lentigines\r\n  patient otherwise healthy . No other association . As patient to consult is GP for possible um ruling out polyposis\r\n  and also gave him topical um Oct cream\r\n  follow up in um a month",
+    "qas": [
+      {
+        "id": "34",
+        "is_impossible": true,
+        "question": "what are the current medication of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ EXAMINATION ]\r\n  patient has a very uncommon types types of moles and um crackles scattered over extremities\r\n  and um feet\r\n  most of the lesions are small 2 to 5 mm macules um with light brown um color\r\n  otherwise um I see no change in lesions from um a previous visit . Patient's um photos taken last time for the moles are compared today and I see no change\r\n  ASSESSMENT AND PLAN\r\n  nevi [ slash ] freckles . Patient has history of for many , many years\r\n  no new change\r\n  will follow up in six months . Advised patient to continue to protect from son and if she signs any change , which is significant then let us know before six months .",
+    "qas": [
+      {
+        "id": "35",
+        "is_impossible": true,
+        "question": "what is the date of birth(dob) of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "Sam is a 35 -year-old male patient seen on Dec 20 , 2022 as a follow up enter . PAST MEDICAL HISTORY Personal history of skin cancer , MM , no . FAMILY HISTORY Skin cancer , no family history of melanoma , no alcohol , no smoker , never smoker . Enter allergies . No known drug allergies . Enter current medications . No known medications . Enter [ REVIEW OF SYSTEMS ] Skin , see HPI . General , no fever , sweats , or chills . Enter history of present illness . Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV . Exa- enter [ EXAMINATION ] Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk . Coumadin , small number of inflammatory papules and pustules and hyperpigmented backdoes located on the face . Enter [ ASSESSMENT AND PLAN ] Psoriasis , plaque . Management options were discussed including top\r\n  steroids , nonsteroidals , UV , and systemic therapy . Risks and benefits of each were reviewed . Patient's opted to proceed with the following treatments . Patient declines systemic therapy at this time . Start Veta , apply once daily to affected areas . Continue with home UV treatments . Acne will go . Management options were discussed including extractions , topicals , acne wash and oral medication . Risks and benefits of each reviewed . Patient opted to proceed with the following treatment . Start benazepril peroxide wash [ period ] Recommended\r\n  begin over-the-counter Bentyl , paroxetine cleanser , Pinoxol 10% , acne wash b.i.d. Avoid getting cleanser into ice inside nose or mouth . Long hand after using cleanser . Advised patient that BP all made bleach , hair or fabrics . Use carefully , avoid contact with clothing , hair , and surroundings . Follow up after three months for follow up",
+    "qas": [
+      {
+        "id": "36",
+        "is_impossible": false,
+        "question": "what are the current medication of the patient?",
+        "answers": [
+          {
+            "text": "No known medications.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Sam is a 35 -year-old male patient seen on Dec 20 , 2022 as a follow up enter . PAST MEDICAL HISTORY Personal history of skin cancer , MM , no . FAMILY HISTORY Skin cancer , no family history of melanoma , no alcohol , no smoker , never smoker . Enter allergies . No known drug allergies . Enter current medications . No known medications . Enter [ REVIEW OF SYSTEMS ] Skin , see HPI . General , no fever , sweats , or chills . Enter history of present illness . Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV . Exa- enter [ EXAMINATION ] Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk . Coumadin , small number of inflammatory papules and pustules and hyperpigmented backdoes located on the face . Enter [ ASSESSMENT AND PLAN ] Psoriasis , plaque . Management options were discussed including top\r\n  steroids , nonsteroidals , UV , and systemic therapy . Risks and benefits of each were reviewed . Patient's opted to proceed with the following treatments . Patient declines systemic therapy at this time . Start Veta , apply once daily to affected areas . Continue with home UV treatments . Acne will go . Management options were discussed including extractions , topicals , acne wash and oral medication . Risks and benefits of each reviewed . Patient opted to proceed with the following treatment . Start benazepril peroxide wash [ period ] Recommended\r\n  begin over-the-counter Bentyl , paroxetine cleanser , Pinoxol 10% , acne wash b.i.d. Avoid getting cleanser into ice inside nose or mouth . Long hand after using cleanser . Advised patient that BP all made bleach , hair or fabrics . Use carefully , avoid contact with clothing , hair , and surroundings . Follow up after three months for follow up",
+    "qas": [
+      {
+        "id": "37",
+        "is_impossible": false,
+        "question": "how old is the patient?",
+        "answers": [
+          {
+            "text": "35.0",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n Enter past medical history\r\n  hypertension\r\n  glycemia\r\n  . Enter history of present illness\r\n  fatty liver\r\n  Enter allergies\r\n  no known allergies\r\n  Enter examination . No examination done\r\n  enter current medication\r\n  Exforge , Phenergan\r\n  enter assessment and plan\r\n  the patient is\r\n  checked thoroughly\r\n  and has been screened . No pathogens found in the blood\r\n  until review\r\n  enter procedure . The patient requires surgical procedure\r\n  to remove\r\n  the skin\r\n  from the forehead .",
+    "qas": [
+      {
+        "id": "38",
+        "is_impossible": false,
+        "question": "what is the history of present illness of the patient?",
+        "answers": [
+          {
+            "text": "Fatty liver",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter . [ HISTORY OF PRESENT ILLNESS ] Patient here for follow up of his plantar warts , which has been treated several times before . As per patient , um the lesions are getting smaller and he like to continue\r\n  enterexamination um two slightly verrucous papule on left dorsal foot and a new lesion on l- little toe . enter assessment and plan\r\n  um verruca vulgaris\r\n  um routine cryotherapy performed on three of the lesion on the foot . Other than mild cirrhosis for that , advised patient to use um emollients um follow up two to three weeks",
+    "qas": [
+      {
+        "id": "39",
+        "is_impossible": false,
+        "question": "what is the examination of the patient?",
+        "answers": [
+          {
+            "text": "Two slightly verrucous papule on left dorsal foot and a new lesion on l- little toe.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period HISTORY OF PRESENT ILLNESS\r\n  Number one ,\r\n  patient here for few bumps on his chest and arms\r\n  Number two ,\r\n  he has few spots on his lips\r\n  period Examination\r\n  Number one ,\r\n  excoriated follicular papules\r\n  on arms and chest\r\n  Number two , 2 to 3 mm flat\r\n  brown macules on the lips\r\n  period ] [ ASSESSMENT AND PLAN ]\r\n  Number one , possible folliculitis\r\n  start doxycycline 100 mg and benzol peroxide wash daily\r\n  Number two , labial lentigines\r\n  patient otherwise healthy . No other association . As patient to consult is GP for possible um ruling out polyposis\r\n  and also gave him topical um Oct cream\r\n  follow up in um a month",
+    "qas": [
+      {
+        "id": "40",
+        "is_impossible": false,
+        "question": "what is the examination of the patient?",
+        "answers": [
+          {
+            "text": "Number one ,\r\n  excoriated follicular papules\r\n  on arms and chest\r\n  number two , 2 to 3 mm flat\r\n  brown macules on the lips",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Sam is a 35 -year-old male patient seen on Dec 20 , 2022 as a follow up enter . PAST MEDICAL HISTORY Personal history of skin cancer , MM , no . FAMILY HISTORY Skin cancer , no family history of melanoma , no alcohol , no smoker , never smoker . Enter allergies . No known drug allergies . Enter current medications . No known medications . Enter [ REVIEW OF SYSTEMS ] Skin , see HPI . General , no fever , sweats , or chills . Enter history of present illness . Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV . Exa- enter [ EXAMINATION ] Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk . Coumadin , small number of inflammatory papules and pustules and hyperpigmented backdoes located on the face . Enter [ ASSESSMENT AND PLAN ] Psoriasis , plaque . Management options were discussed including top\r\n  steroids , nonsteroidals , UV , and systemic therapy . Risks and benefits of each were reviewed . Patient's opted to proceed with the following treatments . Patient declines systemic therapy at this time . Start Veta , apply once daily to affected areas . Continue with home UV treatments . Acne will go . Management options were discussed including extractions , topicals , acne wash and oral medication . Risks and benefits of each reviewed . Patient opted to proceed with the following treatment . Start benazepril peroxide wash [ period ] Recommended\r\n  begin over-the-counter Bentyl , paroxetine cleanser , Pinoxol 10% , acne wash b.i.d. Avoid getting cleanser into ice inside nose or mouth . Long hand after using cleanser . Advised patient that BP all made bleach , hair or fabrics . Use carefully , avoid contact with clothing , hair , and surroundings . Follow up after three months for follow up",
+    "qas": [
+      {
+        "id": "41",
+        "is_impossible": false,
+        "question": "what is the examination of the patient?",
+        "answers": [
+          {
+            "text": "Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk. Coumadin , small number of inflammatory papules and pustules and hyperpigmented backdoes located on the face.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n Enter past medical history\r\n  hypertension\r\n  glycemia\r\n  . Enter history of present illness\r\n  fatty liver\r\n  Enter allergies\r\n  no known allergies\r\n  Enter examination . No examination done\r\n  enter current medication\r\n  Exforge , Phenergan\r\n  enter assessment and plan\r\n  the patient is\r\n  checked thoroughly\r\n  and has been screened . No pathogens found in the blood\r\n  until review\r\n  enter procedure . The patient requires surgical procedure\r\n  to remove\r\n  the skin\r\n  from the forehead .",
+    "qas": [
+      {
+        "id": "42",
+        "is_impossible": false,
+        "question": "what is the examination of the patient?",
+        "answers": [
+          {
+            "text": "No examination done",
+            "answer_start": 175
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ]\r\n  history of present illness . Patient is here because he is concerned about a growth under left eyelid and several other growths on his back\r\n  period ] Examination , a verrucous um papule under left eyelid\r\n  Number two ,\r\n  scattered seborrheic keratosis on the trunk . Number three , few nevi on the legs [ period ] [ ASSESSMENT AND PLAN ] Number one , skin tag under left eyelid , no treatment , told patient if he wishes it can be removed . Number two , scattered seborrheic keratosis on the trunk . No treatment . Number three , few um [ comma ] nevi on the legs . No treatment . Patient to follow up in a year or earlier if um some concerns",
+    "qas": [
+      {
+        "id": "43",
+        "is_impossible": true,
+        "question": "what is the date of birth(dob) of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " Enter history of present illness . Patient is here for a reflectance of confocal microscopy of lesion on mid back . Patient was referred by viral dermatology . Enter examination , hyperpigmented brown papules and macules located on mid back . Enter [ ASSESSMENT AND PLAN ] Nevus common inflamed . assured the patient that these lesions are common moles , which are benign . No treatment is currently indicated . Advised patient to come in at least annually for a full skin check . If anything changes , then schedule appointment to be seen . Over-the-counter SPF 30 is recommended daily",
+    "qas": [
+      {
+        "id": "44",
+        "is_impossible": true,
+        "question": "what are the allergies of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ EXAMINATION ]\r\n  patient has a very uncommon types types of moles and um crackles scattered over extremities\r\n  and um feet\r\n  most of the lesions are small 2 to 5 mm macules um with light brown um color\r\n  otherwise um I see no change in lesions from um a previous visit . Patient's um photos taken last time for the moles are compared today and I see no change\r\n  ASSESSMENT AND PLAN\r\n  nevi [ slash ] freckles . Patient has history of for many , many years\r\n  no new change\r\n  will follow up in six months . Advised patient to continue to protect from son and if she signs any change , which is significant then let us know before six months .",
+    "qas": [
+      {
+        "id": "45",
+        "is_impossible": true,
+        "question": "what is the mrn of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period HISTORY OF PRESENT ILLNESS\r\n  Number one ,\r\n  patient here for few bumps on his chest and arms\r\n  Number two ,\r\n  he has few spots on his lips\r\n  period Examination\r\n  Number one ,\r\n  excoriated follicular papules\r\n  on arms and chest\r\n  Number two , 2 to 3 mm flat\r\n  brown macules on the lips\r\n  period ] [ ASSESSMENT AND PLAN ]\r\n  Number one , possible folliculitis\r\n  start doxycycline 100 mg and benzol peroxide wash daily\r\n  Number two , labial lentigines\r\n  patient otherwise healthy . No other association . As patient to consult is GP for possible um ruling out polyposis\r\n  and also gave him topical um Oct cream\r\n  follow up in um a month",
+    "qas": [
+      {
+        "id": "46",
+        "is_impossible": true,
+        "question": "what is the past medical history of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period HISTORY OF PRESENT ILLNESS\r\n  Number one ,\r\n  patient here for few bumps on his chest and arms\r\n  Number two ,\r\n  he has few spots on his lips\r\n  period Examination\r\n  Number one ,\r\n  excoriated follicular papules\r\n  on arms and chest\r\n  Number two , 2 to 3 mm flat\r\n  brown macules on the lips\r\n  period ] [ ASSESSMENT AND PLAN ]\r\n  Number one , possible folliculitis\r\n  start doxycycline 100 mg and benzol peroxide wash daily\r\n  Number two , labial lentigines\r\n  patient otherwise healthy . No other association . As patient to consult is GP for possible um ruling out polyposis\r\n  and also gave him topical um Oct cream\r\n  follow up in um a month",
+    "qas": [
+      {
+        "id": "47",
+        "is_impossible": true,
+        "question": "what are the allergies of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "Sam is a 35 -year-old male patient seen on Dec 20 , 2022 as a follow up enter . PAST MEDICAL HISTORY Personal history of skin cancer , MM , no . FAMILY HISTORY Skin cancer , no family history of melanoma , no alcohol , no smoker , never smoker . Enter allergies . No known drug allergies . Enter current medications . No known medications . Enter [ REVIEW OF SYSTEMS ] Skin , see HPI . General , no fever , sweats , or chills . Enter history of present illness . Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV . Exa- enter [ EXAMINATION ] Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk . Coumadin , small number of inflammatory papules and pustules and hyperpigmented backdoes located on the face . Enter [ ASSESSMENT AND PLAN ] Psoriasis , plaque . Management options were discussed including top\r\n  steroids , nonsteroidals , UV , and systemic therapy . Risks and benefits of each were reviewed . Patient's opted to proceed with the following treatments . Patient declines systemic therapy at this time . Start Veta , apply once daily to affected areas . Continue with home UV treatments . Acne will go . Management options were discussed including extractions , topicals , acne wash and oral medication . Risks and benefits of each reviewed . Patient opted to proceed with the following treatment . Start benazepril peroxide wash [ period ] Recommended\r\n  begin over-the-counter Bentyl , paroxetine cleanser , Pinoxol 10% , acne wash b.i.d. Avoid getting cleanser into ice inside nose or mouth . Long hand after using cleanser . Advised patient that BP all made bleach , hair or fabrics . Use carefully , avoid contact with clothing , hair , and surroundings . Follow up after three months for follow up",
+    "qas": [
+      {
+        "id": "48",
+        "is_impossible": true,
+        "question": "what is the mrn of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "Sam is a 35 -year-old male patient seen on Dec 20 , 2022 as a follow up enter . PAST MEDICAL HISTORY Personal history of skin cancer , MM , no . FAMILY HISTORY Skin cancer , no family history of melanoma , no alcohol , no smoker , never smoker . Enter allergies . No known drug allergies . Enter current medications . No known medications . Enter [ REVIEW OF SYSTEMS ] Skin , see HPI . General , no fever , sweats , or chills . Enter history of present illness . Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV . Exa- enter [ EXAMINATION ] Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk . Coumadin , small number of inflammatory papules and pustules and hyperpigmented backdoes located on the face . Enter [ ASSESSMENT AND PLAN ] Psoriasis , plaque . Management options were discussed including top\r\n  steroids , nonsteroidals , UV , and systemic therapy . Risks and benefits of each were reviewed . Patient's opted to proceed with the following treatments . Patient declines systemic therapy at this time . Start Veta , apply once daily to affected areas . Continue with home UV treatments . Acne will go . Management options were discussed including extractions , topicals , acne wash and oral medication . Risks and benefits of each reviewed . Patient opted to proceed with the following treatment . Start benazepril peroxide wash [ period ] Recommended\r\n  begin over-the-counter Bentyl , paroxetine cleanser , Pinoxol 10% , acne wash b.i.d. Avoid getting cleanser into ice inside nose or mouth . Long hand after using cleanser . Advised patient that BP all made bleach , hair or fabrics . Use carefully , avoid contact with clothing , hair , and surroundings . Follow up after three months for follow up",
+    "qas": [
+      {
+        "id": "49",
+        "is_impossible": true,
+        "question": "what is the date of birth(dob) of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ]\r\n  history of present illness . Patient is here because he is concerned about a growth under left eyelid and several other growths on his back\r\n  period ] Examination , a verrucous um papule under left eyelid\r\n  Number two ,\r\n  scattered seborrheic keratosis on the trunk . Number three , few nevi on the legs [ period ] [ ASSESSMENT AND PLAN ] Number one , skin tag under left eyelid , no treatment , told patient if he wishes it can be removed . Number two , scattered seborrheic keratosis on the trunk . No treatment . Number three , few um [ comma ] nevi on the legs . No treatment . Patient to follow up in a year or earlier if um some concerns",
+    "qas": [
+      {
+        "id": "50",
+        "is_impossible": true,
+        "question": "what are the current medication of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "Sam is a 35 -year-old male patient seen on Dec 20 , 2022 as a follow up enter . PAST MEDICAL HISTORY Personal history of skin cancer , MM , no . FAMILY HISTORY Skin cancer , no family history of melanoma , no alcohol , no smoker , never smoker . Enter allergies . No known drug allergies . Enter current medications . No known medications . Enter [ REVIEW OF SYSTEMS ] Skin , see HPI . General , no fever , sweats , or chills . Enter history of present illness . Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV . Exa- enter [ EXAMINATION ] Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk . Coumadin , small number of inflammatory papules and pustules and hyperpigmented backdoes located on the face . Enter [ ASSESSMENT AND PLAN ] Psoriasis , plaque . Management options were discussed including top\r\n  steroids , nonsteroidals , UV , and systemic therapy . Risks and benefits of each were reviewed . Patient's opted to proceed with the following treatments . Patient declines systemic therapy at this time . Start Veta , apply once daily to affected areas . Continue with home UV treatments . Acne will go . Management options were discussed including extractions , topicals , acne wash and oral medication . Risks and benefits of each reviewed . Patient opted to proceed with the following treatment . Start benazepril peroxide wash [ period ] Recommended\r\n  begin over-the-counter Bentyl , paroxetine cleanser , Pinoxol 10% , acne wash b.i.d. Avoid getting cleanser into ice inside nose or mouth . Long hand after using cleanser . Advised patient that BP all made bleach , hair or fabrics . Use carefully , avoid contact with clothing , hair , and surroundings . Follow up after three months for follow up",
+    "qas": [
+      {
+        "id": "51",
+        "is_impossible": false,
+        "question": "what is the assessment and plan for the patient?",
+        "answers": [
+          {
+            "text": "Psoriasis , plaque. Management options were discussed including top\r\n  steroids , nonsteroidals , UV , and systemic therapy. Risks and benefits of each were reviewed. Patient's opted to proceed with the following treatments. Patient declines systemic therapy at this time. Start Veta , apply once daily to affected areas. Continue with home UV treatments. Acne will go. Management options were discussed including extractions , topicals , acne wash and oral medication. Risks and benefits of each reviewed. Patient opted to proceed with the following treatment. Start benazepril peroxide wash  period  Recommended\r\n  begin over-the-counter Bentyl , paroxetine cleanser , Pinoxol 10% , acne wash b.i.d. Avoid getting cleanser into ice inside nose or mouth. Long hand after using cleanser. Advised patient that BP all made bleach , hair or fabrics. Use carefully , avoid contact with clothing , hair , and surroundings. Follow up after three months for follow up",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter . [ HISTORY OF PRESENT ILLNESS ] Patient here for follow up of his plantar warts , which has been treated several times before . As per patient , um the lesions are getting smaller and he like to continue\r\n  enterexamination um two slightly verrucous papule on left dorsal foot and a new lesion on l- little toe . enter assessment and plan\r\n  um verruca vulgaris\r\n  um routine cryotherapy performed on three of the lesion on the foot . Other than mild cirrhosis for that , advised patient to use um emollients um follow up two to three weeks",
+    "qas": [
+      {
+        "id": "52",
+        "is_impossible": false,
+        "question": "what is the assessment and plan for the patient?",
+        "answers": [
+          {
+            "text": "verruca vulgaris\r\n  routine cryotherapy performed on three of the lesion on the foot. other than mild cirrhosis for that , advised patient to use emollients follow up two to three weeks",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": " Enter history of present illness . Patient is here for a reflectance of confocal microscopy of lesion on mid back . Patient was referred by viral dermatology . Enter examination , hyperpigmented brown papules and macules located on mid back . Enter [ ASSESSMENT AND PLAN ] Nevus common inflamed . assured the patient that these lesions are common moles , which are benign . No treatment is currently indicated . Advised patient to come in at least annually for a full skin check . If anything changes , then schedule appointment to be seen . Over-the-counter SPF 30 is recommended daily",
+    "qas": [
+      {
+        "id": "53",
+        "is_impossible": false,
+        "question": "what is the examination of the patient?",
+        "answers": [
+          {
+            "text": "hyperpigmented brown papules and macules located on mid back.",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter . [ HISTORY OF PRESENT ILLNESS ] Patient here for follow up of his plantar warts , which has been treated several times before . As per patient , um the lesions are getting smaller and he like to continue\r\n  enterexamination um two slightly verrucous papule on left dorsal foot and a new lesion on l- little toe . enter assessment and plan\r\n  um verruca vulgaris\r\n  um routine cryotherapy performed on three of the lesion on the foot . Other than mild cirrhosis for that , advised patient to use um emollients um follow up two to three weeks",
+    "qas": [
+      {
+        "id": "54",
+        "is_impossible": true,
+        "question": "what is the review of systems of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n enter . [ HISTORY OF PRESENT ILLNESS ] Patient here for follow up of his plantar warts , which has been treated several times before . As per patient , um the lesions are getting smaller and he like to continue\r\n  enterexamination um two slightly verrucous papule on left dorsal foot and a new lesion on l- little toe . enter assessment and plan\r\n  um verruca vulgaris\r\n  um routine cryotherapy performed on three of the lesion on the foot . Other than mild cirrhosis for that , advised patient to use um emollients um follow up two to three weeks",
+    "qas": [
+      {
+        "id": "55",
+        "is_impossible": true,
+        "question": "what are the current medication of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ] [ EXAMINATION ]\r\n  patient has a very uncommon types types of moles and um crackles scattered over extremities\r\n  and um feet\r\n  most of the lesions are small 2 to 5 mm macules um with light brown um color\r\n  otherwise um I see no change in lesions from um a previous visit . Patient's um photos taken last time for the moles are compared today and I see no change\r\n  ASSESSMENT AND PLAN\r\n  nevi [ slash ] freckles . Patient has history of for many , many years\r\n  no new change\r\n  will follow up in six months . Advised patient to continue to protect from son and if she signs any change , which is significant then let us know before six months .",
+    "qas": [
+      {
+        "id": "56",
+        "is_impossible": true,
+        "question": "how old is the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period ]\r\n  history of present illness . Patient is here because he is concerned about a growth under left eyelid and several other growths on his back\r\n  period ] Examination , a verrucous um papule under left eyelid\r\n  Number two ,\r\n  scattered seborrheic keratosis on the trunk . Number three , few nevi on the legs [ period ] [ ASSESSMENT AND PLAN ] Number one , skin tag under left eyelid , no treatment , told patient if he wishes it can be removed . Number two , scattered seborrheic keratosis on the trunk . No treatment . Number three , few um [ comma ] nevi on the legs . No treatment . Patient to follow up in a year or earlier if um some concerns",
+    "qas": [
+      {
+        "id": "57",
+        "is_impossible": true,
+        "question": "what are the allergies of the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": " Enter history of present illness . Patient is here for a reflectance of confocal microscopy of lesion on mid back . Patient was referred by viral dermatology . Enter examination , hyperpigmented brown papules and macules located on mid back . Enter [ ASSESSMENT AND PLAN ] Nevus common inflamed . assured the patient that these lesions are common moles , which are benign . No treatment is currently indicated . Advised patient to come in at least annually for a full skin check . If anything changes , then schedule appointment to be seen . Over-the-counter SPF 30 is recommended daily",
+    "qas": [
+      {
+        "id": "58",
+        "is_impossible": true,
+        "question": "what is the procedure recommended to the patient?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\r\n period HISTORY OF PRESENT ILLNESS\r\n  Number one ,\r\n  patient here for few bumps on his chest and arms\r\n  Number two ,\r\n  he has few spots on his lips\r\n  period Examination\r\n  Number one ,\r\n  excoriated follicular papules\r\n  on arms and chest\r\n  Number two , 2 to 3 mm flat\r\n  brown macules on the lips\r\n  period ] [ ASSESSMENT AND PLAN ]\r\n  Number one , possible folliculitis\r\n  start doxycycline 100 mg and benzol peroxide wash daily\r\n  Number two , labial lentigines\r\n  patient otherwise healthy . No other association . As patient to consult is GP for possible um ruling out polyposis\r\n  and also gave him topical um Oct cream\r\n  follow up in um a month",
+    "qas": [
+      {
+        "id": "59",
+        "is_impossible": false,
+        "question": "what is the assessment and plan for the patient?",
+        "answers": [
+          {
+            "text": "Number one , possible folliculitis\r\n  start doxycycline 100 mg and benzol peroxide wash daily\r\n  number two , labial lentigines\r\n  patient otherwise healthy. no other association. as patient to consult is gp for possible ruling out polyposis\r\n  and also gave him topical oct cream\r\n  follow up in a month",
+            "answer_start": -1
+          }
+        ]
+      }
+    ]
+  }
+]

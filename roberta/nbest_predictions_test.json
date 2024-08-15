@@ -1,0 +1,996 @@
+{
+    "1": [
+        {
+            "text": "Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV .",
+            "probability": 0.9975369929444886,
+            "start_logit": 14.296875,
+            "end_logit": 14.0
+        },
+        {
+            "text": "Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV . Exa-",
+            "probability": 0.0024630070555115235,
+            "start_logit": 14.296875,
+            "end_logit": 7.99609375
+        },
+        {
+            "text": "",
+            "probability": 6.18837984299687e-20,
+            "start_logit": -7.1015625,
+            "end_logit": -8.828125
+        }
+    ],
+    "2": [
+        {
+            "text": "patient here for few bumps on his chest and arms Number two , he has few spots on his lips",
+            "probability": 0.6279512168265432,
+            "start_logit": 12.7890625,
+            "end_logit": 14.5078125
+        },
+        {
+            "text": "Number one , patient here for few bumps on his chest and arms Number two , he has few spots on his lips",
+            "probability": 0.3720487831734568,
+            "start_logit": 12.265625,
+            "end_logit": 14.5078125
+        },
+        {
+            "text": "",
+            "probability": 1.7664647292226627e-19,
+            "start_logit": -8.0625,
+            "end_logit": -7.35546875
+        }
+    ],
+    "3": [
+        {
+            "text": "empty",
+            "probability": 9.619897559486865e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999903801,
+            "start_logit": 11.6015625,
+            "end_logit": 13.765625
+        }
+    ],
+    "4": [
+        {
+            "text": "No known drug allergies .",
+            "probability": 0.9999997924088921,
+            "start_logit": 14.6640625,
+            "end_logit": 14.953125
+        },
+        {
+            "text": ".",
+            "probability": 2.0759110776144097e-07,
+            "start_logit": -0.7236328125,
+            "end_logit": 14.953125
+        },
+        {
+            "text": "",
+            "probability": 1.8554140937698012e-20,
+            "start_logit": -8.3984375,
+            "end_logit": -7.41796875
+        }
+    ],
+    "5": [
+        {
+            "text": "The patient requires surgical procedure to remove the skin from the forehead .",
+            "probability": 0.9999864482914562,
+            "start_logit": 13.96875,
+            "end_logit": 13.2421875
+        },
+        {
+            "text": "The patient requires surgical procedure to remove the skin from the forehead",
+            "probability": 1.3551708543715155e-05,
+            "start_logit": 13.96875,
+            "end_logit": 2.033203125
+        },
+        {
+            "text": "",
+            "probability": 8.154446066035738e-20,
+            "start_logit": -7.7265625,
+            "end_logit": -9.015625
+        }
+    ],
+    "6": [
+        {
+            "text": "Skin , see HPI . General , no fever , sweats , or chills .",
+            "probability": 0.9999985632928607,
+            "start_logit": 13.6875,
+            "end_logit": 14.8828125
+        },
+        {
+            "text": "Skin , see HPI . General , no fever , sweats , or chills . Enter history of present illness . Patient presents for a follow up on psoriasis , getting worse since spreading , currently using at home UV .",
+            "probability": 1.0389030233714453e-06,
+            "start_logit": 13.6875,
+            "end_logit": 1.10546875
+        },
+        {
+            "text": ".",
+            "probability": 3.978041157867384e-07,
+            "start_logit": -1.0498046875,
+            "end_logit": 14.8828125
+        },
+        {
+            "text": "",
+            "probability": 6.252306421864579e-20,
+            "start_logit": -8.171875,
+            "end_logit": -7.4765625
+        }
+    ],
+    "7": [
+        {
+            "text": "empty",
+            "probability": 4.544117847919576e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999954559,
+            "start_logit": 12.4453125,
+            "end_logit": 13.671875
+        }
+    ],
+    "8": [
+        {
+            "text": "empty",
+            "probability": 4.1374663838643995e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999958626,
+            "start_logit": 12.53125,
+            "end_logit": 13.6796875
+        }
+    ],
+    "9": [
+        {
+            "text": "patient has a very uncommon types types of moles and um crackles scattered over extremities and um feet",
+            "probability": 0.9956467967279837,
+            "start_logit": 8.5703125,
+            "end_logit": 12.734375
+        },
+        {
+            "text": "] patient has a very uncommon types types of moles and um crackles scattered over extremities and um feet",
+            "probability": 0.004239342548616541,
+            "start_logit": 3.111328125,
+            "end_logit": 12.734375
+        },
+        {
+            "text": "patient has a very uncommon types types of moles and um crackles scattered over extremities and um feet most of the lesions are small 2 to 5 mm macules",
+            "probability": 0.0001138607233994635,
+            "start_logit": 8.5703125,
+            "end_logit": 3.658203125
+        },
+        {
+            "text": "",
+            "probability": 3.1198347380817776e-16,
+            "start_logit": -8.0,
+            "end_logit": -6.39453125
+        }
+    ],
+    "10": [
+        {
+            "text": "PLAN nevi [ slash ] freckles . Patient has history of for many , many years no new change will follow up in six months . Advised patient to continue to protect from son and if she signs any change , which is significant then let us know before six months .",
+            "probability": 0.99884556624431,
+            "start_logit": 10.3203125,
+            "end_logit": 12.6875
+        },
+        {
+            "text": "PLAN nevi [ slash ] freckles . Patient has history of for many , many years no new change will follow up in six months . Advised patient to continue to protect from son and if she signs any change , which is significant then let us know before six months",
+            "probability": 0.0008523090598338471,
+            "start_logit": 10.3203125,
+            "end_logit": 5.62109375
+        },
+        {
+            "text": "then let us know before six months .",
+            "probability": 0.00030212469585484317,
+            "start_logit": 2.216796875,
+            "end_logit": 12.6875
+        },
+        {
+            "text": "",
+            "probability": 1.2598348857022754e-15,
+            "start_logit": -7.80078125,
+            "end_logit": -3.498046875
+        }
+    ],
+    "11": [
+        {
+            "text": "Patient here for follow up of his plantar warts , which has been treated several times before",
+            "probability": 1.0,
+            "start_logit": 14.40625,
+            "end_logit": 14.5390625
+        },
+        {
+            "text": "",
+            "probability": 1.7362052831002947e-20,
+            "start_logit": -8.4453125,
+            "end_logit": -8.109375
+        }
+    ],
+    "12": [
+        {
+            "text": "empty",
+            "probability": 4.169916934901323e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.99999999999583,
+            "start_logit": 12.5390625,
+            "end_logit": 13.6640625
+        }
+    ],
+    "13": [
+        {
+            "text": "Examination , a verrucous um papule under left eyelid Number two , scattered seborrheic keratosis on the trunk . Number three , few nevi on the legs",
+            "probability": 0.999327416129265,
+            "start_logit": 6.546875,
+            "end_logit": 11.7109375
+        },
+        {
+            "text": "a verrucous um papule under left eyelid Number two , scattered seborrheic keratosis on the trunk . Number three , few nevi on the legs",
+            "probability": 0.0006725838651930502,
+            "start_logit": -0.7568359375,
+            "end_logit": 11.7109375
+        },
+        {
+            "text": "",
+            "probability": 5.542133615523224e-12,
+            "start_logit": -5.99609375,
+            "end_logit": -1.6640625
+        }
+    ],
+    "14": [
+        {
+            "text": "Patient is here because he is concerned about a growth under left eyelid and several other growths on his back",
+            "probability": 0.999248955210038,
+            "start_logit": 13.53125,
+            "end_logit": 13.1796875
+        },
+        {
+            "text": "Patient is here because he is concerned about a growth under left eyelid and several other growths on his",
+            "probability": 0.0005883130657753683,
+            "start_logit": 13.53125,
+            "end_logit": 5.7421875
+        },
+        {
+            "text": "Patient is here because he is concerned about a growth under left eyelid and several other growths",
+            "probability": 0.00016273172418659234,
+            "start_logit": 13.53125,
+            "end_logit": 4.45703125
+        },
+        {
+            "text": "",
+            "probability": 4.744372552532136e-19,
+            "start_logit": -8.046875,
+            "end_logit": -7.43359375
+        }
+    ],
+    "15": [
+        {
+            "text": "Number one , skin tag under left eyelid , no treatment , told patient if he wishes it can be removed . Number two , scattered seborrheic keratosis on the trunk . No treatment . Number three , few um [ comma ] nevi on the legs . No treatment . Patient to follow up in a year or earlier if um some concerns",
+            "probability": 0.9999996837703641,
+            "start_logit": 13.765625,
+            "end_logit": 14.8359375
+        },
+        {
+            "text": "concerns",
+            "probability": 3.162296359503889e-07,
+            "start_logit": -1.201171875,
+            "end_logit": 14.8359375
+        },
+        {
+            "text": "",
+            "probability": 6.047222868433755e-21,
+            "start_logit": -9.3984375,
+            "end_logit": -8.5546875
+        }
+    ],
+    "16": [
+        {
+            "text": "empty",
+            "probability": 4.169916934901323e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.99999999999583,
+            "start_logit": 12.546875,
+            "end_logit": 13.65625
+        }
+    ],
+    "17": [
+        {
+            "text": "empty",
+            "probability": 4.169916934901323e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.99999999999583,
+            "start_logit": 12.5390625,
+            "end_logit": 13.6640625
+        }
+    ],
+    "18": [
+        {
+            "text": "empty",
+            "probability": 4.105268365019132e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999958948,
+            "start_logit": 12.5390625,
+            "end_logit": 13.6796875
+        }
+    ],
+    "19": [
+        {
+            "text": "Patient is here for a reflectance of confocal microscopy of lesion on mid back .",
+            "probability": 0.9912674394482229,
+            "start_logit": 13.7421875,
+            "end_logit": 12.5390625
+        },
+        {
+            "text": "Patient is here for a reflectance of confocal microscopy of lesion on mid back . Patient was referred by viral dermatology",
+            "probability": 0.00871119836347031,
+            "start_logit": 13.7421875,
+            "end_logit": 7.8046875
+        },
+        {
+            "text": "Patient is here for a reflectance of confocal microscopy of lesion on mid back",
+            "probability": 2.1362188306845394e-05,
+            "start_logit": 13.7421875,
+            "end_logit": 1.7939453125
+        },
+        {
+            "text": "",
+            "probability": 1.3199640628253655e-18,
+            "start_logit": -7.34765625,
+            "end_logit": -7.53125
+        }
+    ],
+    "20": [
+        {
+            "text": "empty",
+            "probability": 4.202621998764429e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999957974,
+            "start_logit": 12.515625,
+            "end_logit": 13.6796875
+        }
+    ],
+    "21": [
+        {
+            "text": "empty",
+            "probability": 4.235583571622557e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999957645,
+            "start_logit": 12.4921875,
+            "end_logit": 13.6953125
+        }
+    ],
+    "22": [
+        {
+            "text": "empty",
+            "probability": 4.169916934901323e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.99999999999583,
+            "start_logit": 12.5234375,
+            "end_logit": 13.6796875
+        }
+    ],
+    "23": [
+        {
+            "text": "empty",
+            "probability": 4.1374663838643995e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999958626,
+            "start_logit": 12.5859375,
+            "end_logit": 13.625
+        }
+    ],
+    "24": [
+        {
+            "text": "empty",
+            "probability": 4.202621998764429e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999957974,
+            "start_logit": 12.53125,
+            "end_logit": 13.6640625
+        }
+    ],
+    "25": [
+        {
+            "text": "empty",
+            "probability": 4.1374663838643995e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999958626,
+            "start_logit": 12.53125,
+            "end_logit": 13.6796875
+        }
+    ],
+    "26": [
+        {
+            "text": "Nevus common inflamed . assured the patient that these lesions are common moles , which are benign . No treatment is currently indicated . Advised patient to come in at least annually for a full skin check . If anything changes , then schedule appointment to be seen . Over-the-counter SPF 30 is recommended daily",
+            "probability": 1.0,
+            "start_logit": 13.78125,
+            "end_logit": 14.6796875
+        },
+        {
+            "text": "",
+            "probability": 3.4935576812024323e-20,
+            "start_logit": -8.3671875,
+            "end_logit": -7.97265625
+        }
+    ],
+    "27": [
+        {
+            "text": "empty",
+            "probability": 4.169916934901323e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.99999999999583,
+            "start_logit": 12.4921875,
+            "end_logit": 13.7109375
+        }
+    ],
+    "28": [
+        {
+            "text": "the patient is checked thoroughly and has been screened . No pathogens found in the blood until review",
+            "probability": 0.9527502864985079,
+            "start_logit": 11.453125,
+            "end_logit": 7.1953125
+        },
+        {
+            "text": "the patient is checked thoroughly and has been screened . No pathogens found in the blood",
+            "probability": 0.04724971350148972,
+            "start_logit": 11.453125,
+            "end_logit": 4.19140625
+        },
+        {
+            "text": "",
+            "probability": 2.329940443192605e-15,
+            "start_logit": -8.734375,
+            "end_logit": -6.26171875
+        }
+    ],
+    "29": [
+        {
+            "text": "empty",
+            "probability": 4.169916934901323e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.99999999999583,
+            "start_logit": 12.5390625,
+            "end_logit": 13.6640625
+        }
+    ],
+    "30": [
+        {
+            "text": "no known allergies",
+            "probability": 0.9999979439597189,
+            "start_logit": 14.140625,
+            "end_logit": 14.6015625
+        },
+        {
+            "text": "no known allergies Enter examination . No examination done",
+            "probability": 2.056040281194933e-06,
+            "start_logit": 14.140625,
+            "end_logit": 1.5068359375
+        },
+        {
+            "text": "",
+            "probability": 1.287910272238618e-19,
+            "start_logit": -8.0234375,
+            "end_logit": -6.73046875
+        }
+    ],
+    "31": [
+        {
+            "text": "hypertension glycemia .",
+            "probability": 0.9999766306651053,
+            "start_logit": 12.3046875,
+            "end_logit": 13.640625
+        },
+        {
+            "text": "hypertension glycemia . Enter history of present illness fatty liver",
+            "probability": 2.336933489472016e-05,
+            "start_logit": 12.3046875,
+            "end_logit": 2.9765625
+        },
+        {
+            "text": "",
+            "probability": 6.0853442859284626e-18,
+            "start_logit": -7.69921875,
+            "end_logit": -5.99609375
+        }
+    ],
+    "32": [
+        {
+            "text": "empty",
+            "probability": 4.169916934901323e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.99999999999583,
+            "start_logit": 12.53125,
+            "end_logit": 13.671875
+        }
+    ],
+    "33": [
+        {
+            "text": "empty",
+            "probability": 4.169916934901323e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.99999999999583,
+            "start_logit": 12.53125,
+            "end_logit": 13.671875
+        }
+    ],
+    "34": [
+        {
+            "text": "empty",
+            "probability": 4.04162207831261e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999959583,
+            "start_logit": 12.53125,
+            "end_logit": 13.703125
+        }
+    ],
+    "35": [
+        {
+            "text": "empty",
+            "probability": 4.169916934901323e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.99999999999583,
+            "start_logit": 12.5390625,
+            "end_logit": 13.6640625
+        }
+    ],
+    "36": [
+        {
+            "text": "No known medications .",
+            "probability": 1.0,
+            "start_logit": 13.3125,
+            "end_logit": 14.5390625
+        },
+        {
+            "text": "",
+            "probability": 1.6832903571592759e-18,
+            "start_logit": -7.6640625,
+            "end_logit": -5.41015625
+        }
+    ],
+    "37": [
+        {
+            "text": "empty",
+            "probability": 4.169916934901323e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.99999999999583,
+            "start_logit": 12.4609375,
+            "end_logit": 13.7421875
+        }
+    ],
+    "38": [
+        {
+            "text": "fatty liver",
+            "probability": 0.9996190139735628,
+            "start_logit": 11.765625,
+            "end_logit": 12.5078125
+        },
+        {
+            "text": "hypertension glycemia . Enter history of present illness fatty liver",
+            "probability": 0.00038072701579438373,
+            "start_logit": 3.892578125,
+            "end_logit": 12.5078125
+        },
+        {
+            "text": "hypertension glycemia",
+            "probability": 2.590106429500133e-07,
+            "start_logit": 3.892578125,
+            "end_logit": 5.21484375
+        },
+        {
+            "text": "",
+            "probability": 1.3029869363647166e-17,
+            "start_logit": -7.53125,
+            "end_logit": -7.07421875
+        }
+    ],
+    "39": [
+        {
+            "text": "two slightly verrucous papule on left dorsal foot and a new lesion on l- little toe",
+            "probability": 0.999877565570653,
+            "start_logit": 13.875,
+            "end_logit": 14.1796875
+        },
+        {
+            "text": "two slightly verrucous papule on left dorsal foot and a new lesion on l- little toe .",
+            "probability": 0.0001224344293469562,
+            "start_logit": 13.875,
+            "end_logit": 5.171875
+        },
+        {
+            "text": "",
+            "probability": 5.538566251828072e-20,
+            "start_logit": -7.80859375,
+            "end_logit": -8.4765625
+        }
+    ],
+    "40": [
+        {
+            "text": "Examination Number one , excoriated follicular papules on arms and chest Number two , 2 to 3 mm flat brown macules on the lips",
+            "probability": 0.9983058968441496,
+            "start_logit": 11.328125,
+            "end_logit": 14.4609375
+        },
+        {
+            "text": "Number one , excoriated follicular papules on arms and chest Number two , 2 to 3 mm flat brown macules on the lips",
+            "probability": 0.0016941031558503918,
+            "start_logit": 4.94921875,
+            "end_logit": 14.4609375
+        },
+        {
+            "text": "",
+            "probability": 6.504025072122876e-19,
+            "start_logit": -8.1171875,
+            "end_logit": -7.96875
+        }
+    ],
+    "41": [
+        {
+            "text": "Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk",
+            "probability": 0.720381684269069,
+            "start_logit": 14.3984375,
+            "end_logit": 13.234375
+        },
+        {
+            "text": "Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk .",
+            "probability": 0.2650136114390475,
+            "start_logit": 14.3984375,
+            "end_logit": 12.234375
+        },
+        {
+            "text": "Symmetrically distributed red plaques with well-defined edges and white silvery scale located on arms , legs , and trunk . Coumadin , small number of inflammatory papules and pustules and hyperpigmented backdoes located on the face .",
+            "probability": 0.014604704291883604,
+            "start_logit": 14.3984375,
+            "end_logit": 9.3359375
+        },
+        {
+            "text": "",
+            "probability": 4.4864938612647764e-20,
+            "start_logit": -6.99609375,
+            "end_logit": -9.59375
+        }
+    ],
+    "42": [
+        {
+            "text": "empty",
+            "probability": 4.105380673956344e-05,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999589461932603,
+            "start_logit": 1.0224609375,
+            "end_logit": 9.078125
+        }
+    ],
+    "43": [
+        {
+            "text": "empty",
+            "probability": 4.169916934901323e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.99999999999583,
+            "start_logit": 12.53125,
+            "end_logit": 13.671875
+        }
+    ],
+    "44": [
+        {
+            "text": "empty",
+            "probability": 4.202621998764429e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999957974,
+            "start_logit": 12.5234375,
+            "end_logit": 13.671875
+        }
+    ],
+    "45": [
+        {
+            "text": "empty",
+            "probability": 4.169916934901323e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.99999999999583,
+            "start_logit": 12.5234375,
+            "end_logit": 13.6796875
+        }
+    ],
+    "46": [
+        {
+            "text": "empty",
+            "probability": 4.235583571622557e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999957645,
+            "start_logit": 12.5,
+            "end_logit": 13.6875
+        }
+    ],
+    "47": [
+        {
+            "text": "empty",
+            "probability": 4.202621998764429e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999957974,
+            "start_logit": 12.5234375,
+            "end_logit": 13.671875
+        }
+    ],
+    "48": [
+        {
+            "text": "empty",
+            "probability": 4.169916934901323e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.99999999999583,
+            "start_logit": 12.5625,
+            "end_logit": 13.640625
+        }
+    ],
+    "49": [
+        {
+            "text": "empty",
+            "probability": 4.169916934901323e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.99999999999583,
+            "start_logit": 12.4609375,
+            "end_logit": 13.7421875
+        }
+    ],
+    "50": [
+        {
+            "text": "empty",
+            "probability": 4.202621998764429e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999957974,
+            "start_logit": 12.5234375,
+            "end_logit": 13.671875
+        }
+    ],
+    "51": [
+        {
+            "text": "Psoriasis , plaque . Management options were discussed including top steroids , nonsteroidals , UV , and systemic therapy",
+            "probability": 0.8529156999764487,
+            "start_logit": 10.421875,
+            "end_logit": 11.71875
+        },
+        {
+            "text": "Psoriasis , plaque . Management options were discussed including top steroids , nonsteroidals , UV , and systemic therapy . Risks and benefits of each were reviewed . Patient's opted to proceed with the",
+            "probability": 0.14706111003441613,
+            "start_logit": 10.421875,
+            "end_logit": 9.9609375
+        },
+        {
+            "text": "Psoriasis , plaque .",
+            "probability": 2.3189989103669257e-05,
+            "start_logit": 10.421875,
+            "end_logit": 1.2060546875
+        },
+        {
+            "text": "",
+            "probability": 3.171628490393918e-14,
+            "start_logit": -7.28515625,
+            "end_logit": -1.4970703125
+        }
+    ],
+    "52": [
+        {
+            "text": "verruca vulgaris um routine cryotherapy performed on three of the lesion on the foot . Other than mild cirrhosis for that , advised patient to use um emollients um follow up two to three weeks",
+            "probability": 0.9999999999999931,
+            "start_logit": 3.109375,
+            "end_logit": 14.03125
+        },
+        {
+            "text": "",
+            "probability": 6.8318048701021885e-15,
+            "start_logit": -8.640625,
+            "end_logit": -6.8359375
+        }
+    ],
+    "53": [
+        {
+            "text": ", hyperpigmented brown papules and macules located on mid back .",
+            "probability": 1.0,
+            "start_logit": 13.15625,
+            "end_logit": 14.34375
+        },
+        {
+            "text": "",
+            "probability": 2.3049391267640017e-19,
+            "start_logit": -7.6328125,
+            "end_logit": -7.78125
+        }
+    ],
+    "54": [
+        {
+            "text": "empty",
+            "probability": 4.202621998764429e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999957974,
+            "start_logit": 12.5078125,
+            "end_logit": 13.6875
+        }
+    ],
+    "55": [
+        {
+            "text": "empty",
+            "probability": 4.202621998764429e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999957974,
+            "start_logit": 12.5234375,
+            "end_logit": 13.671875
+        }
+    ],
+    "56": [
+        {
+            "text": "empty",
+            "probability": 4.105268365019132e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999958948,
+            "start_logit": 12.546875,
+            "end_logit": 13.671875
+        }
+    ],
+    "57": [
+        {
+            "text": "empty",
+            "probability": 4.235583571622557e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999957645,
+            "start_logit": 12.484375,
+            "end_logit": 13.703125
+        }
+    ],
+    "58": [
+        {
+            "text": "empty",
+            "probability": 4.1374663838643995e-12,
+            "start_logit": 0.0,
+            "end_logit": 0.0
+        },
+        {
+            "text": "",
+            "probability": 0.9999999999958626,
+            "start_logit": 12.5546875,
+            "end_logit": 13.65625
+        }
+    ],
+    "59": [
+        {
+            "text": "Number one , possible folliculitis start doxycycline 100 mg and benzol peroxide wash daily Number two , labial lentigines patient otherwise healthy . No other association . As patient to consult is GP for possible um ruling out polyposis and also gave him topical um Oct cream follow up in um a month",
+            "probability": 0.9999998164433267,
+            "start_logit": 14.2421875,
+            "end_logit": 14.8125
+        },
+        {
+            "text": "month",
+            "probability": 1.8355667325535493e-07,
+            "start_logit": -1.2685546875,
+            "end_logit": 14.8125
+        },
+        {
+            "text": "",
+            "probability": 1.300357434542998e-20,
+            "start_logit": -8.53125,
+            "end_logit": -8.203125
+        }
+    ]
+}

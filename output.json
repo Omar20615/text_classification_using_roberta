@@ -1,0 +1,211 @@
+[
+    {
+        "request_data": {
+            "text": "\n period ] [ HISTORY OF PRESENT ILLNESS ] Patient is here for a filler . Had a filler done couple of weeks ago . She wants little more um procedure \n  valvular um injected to upper lip and small amount to lower lip um routine . No complication . Patient patient is happy now"
+        },
+        "response_data": {
+            "history of present illnesss": " Patient is here for a filler. Had a filler done couple of weeks ago.",
+            "dob": "<s>",
+            "allergies": "<s>",
+            "review of systems": "<s>",
+            "current medication": "<s>",
+            "procedure": "<s>",
+            "name": "<s>",
+            "age": "<s>",
+            "mrn": "<s>",
+            "examination": "<s>",
+            "assessment and plan": "<s>",
+            "past medical history": "<s>"
+        }
+    },
+    {
+        "request_data": {
+            "text": "\n enter history of present illness\n  patient here for mild erythema and scarring of face secondary to previous acne . Examination\n  Slight hyperpigmentation and um atrophic scars on the cheek along with erythema . Enter assessment and plan , acne and acne scars\n  PROCEDURE Um Genesis with 1064 , energy six and above um 2000 pulses on each cheek"
+        },
+        "response_data": {
+            "history of present illnesss": " patient here for mild erythema and scarring of face secondary to previous acne.",
+            "dob": "<s>",
+            "allergies": "<s>",
+            "review of systems": "<s>",
+            "current medication": "<s>",
+            "procedure": " Genesis with 1064, energy six and above um 2000 pulses on each cheek",
+            "name": "<s>",
+            "age": "<s>",
+            "mrn": "<s>",
+            "examination": " Slight hyperpigmentation and um atrophic scars on the cheek along with erythema.",
+            "assessment and plan": " acne and acne scars\n ",
+            "past medical history": "<s>"
+        }
+    },
+    {
+        "request_data": {
+            "text": "\n . Enter history of present illness\n  patient here because of um acne , has previous has- history of bad acne on the face , most recently most recently she has been doing well um because she was on birth control pill Yasmin , which she is thinking of stopping it because she is worried about the side effect of birth control pills . Enter examination , very few um\n  papules and comedones on the cheeks . Enter [ ASSESSMENT AND PLAN ] Diagnosis , um acne vulgaris , mild . Um start patient on clinda gel in the morning and epidural at night , just spot treatment . If her conditions worse or acne worse , we will consider oral medication . Consult patient about um what to avoidant diet , in reference to acne , especially um foods um with high sugar contact"
+        },
+        "response_data": {
+            "history of present illnesss": " patient here because of um acne, has previous has- history of bad acne on the face,",
+            "dob": "<s>",
+            "allergies": "<s>",
+            "review of systems": "<s>",
+            "current medication": "<s>",
+            "procedure": "<s>",
+            "name": "<s>",
+            "age": "<s>",
+            "mrn": "<s>",
+            "examination": " very few um\n  papules and comedones on the cheeks.",
+            "assessment and plan": " Diagnosis, um acne vulgaris, mild. Um start patient on clinda gel in the morning and epidural at night, just spot treatment. If her conditions worse or acne worse, we will consider oral medication.",
+            "past medical history": "<s>"
+        }
+    },
+    {
+        "request_data": {
+            "text": "\n period ] [ HISTORY OF PRESENT ILLNESS ] Patrick is here today for his yearly skin check . Otherwise , not concerned about any special lesion on any part of the body and have no other associated symptoms of any other um medical conditions [ period ] [ EXAMINATION ] A several scattered seborrheic keratosis of the trunk\n  few um hyperpigmented papules on the face\n  and slight xerosis with mild scaling on um legs [ period ] [ ASSESSMENT AND PLAN ] Seborric keratosis scattered over trunk , no treatment [ comma ] nevi scattered over extremities and face , no treatment \n  Slight xerosis on the legs . Um no treatment . Patient advised on skilled care protection and the and the importance of moisturizing his skin . Follow up in one year or earlier\n as needed"
+        },
+        "response_data": {
+            "history of present illnesss": " Patrick is here today for his yearly skin check.",
+            "dob": "<s>",
+            "allergies": "<s>",
+            "review of systems": "<s>",
+            "current medication": "<s>",
+            "procedure": "<s>",
+            "name": "<s>",
+            "age": "<s>",
+            "mrn": "<s>",
+            "examination": " A several scattered seborrheic keratosis of the trunk\n  few um hyperpigmented papules on the face\n  and slight xerosis with mild scaling on um legs",
+            "assessment and plan": " Seborric keratosis scattered over trunk, no treatment",
+            "past medical history": "<s>"
+        }
+    },
+    {
+        "request_data": {
+            "text": "\n patient is a 30 -year-old female presenting for a full skin exam . Enter examination \n  patient presents with 2 cm umbilicated\n pl"
+        },
+        "response_data": {
+            "history of present illnesss": "<s>",
+            "dob": "<s>",
+            "allergies": "<s>",
+            "review of systems": "<s>",
+            "current medication": "<s>",
+            "procedure": "<s>",
+            "name": "<s>",
+            "age": "<s>",
+            "mrn": "<s>",
+            "examination": " patient presents with 2 cm umbilicated\n pl",
+            "assessment and plan": "<s>",
+            "past medical history": "<s>"
+        }
+    },
+    {
+        "request_data": {
+            "text": "[HISTORY OF PRESENT ILLNESS] patient has a for a rash , which has been present for many weeks . Also have some mild itching and pain in the area . Otherwise , no associated symptoms and he has tried over-the-counter creams and Benadryl without any benefits . Patient worried this may be an infection and should he avoid meeting other people"
+        },
+        "response_data": {
+            "history of present illnesss": " patient has a for a rash, which has been present for many weeks.",
+            "dob": "<s>",
+            "allergies": "<s>",
+            "review of systems": "<s>",
+            "current medication": "<s>",
+            "procedure": "<s>",
+            "name": "<s>",
+            "age": "<s>",
+            "mrn": "<s>",
+            "examination": "<s>",
+            "assessment and plan": "<s>",
+            "past medical history": "<s>"
+        }
+    },
+    {
+        "request_data": {
+            "text": " \n HISTORY OF PRESENT ILLNESS Patient is a 30 -year-old female presenting here today for a full skin exam . Examination , patient reports two puffs located on the trunk"
+        },
+        "response_data": {
+            "history of present illnesss": " Patient is a 30 -year-old female presenting here today for a full skin exam.",
+            "dob": "<s>",
+            "allergies": "<s>",
+            "review of systems": "<s>",
+            "current medication": "<s>",
+            "procedure": "<s>",
+            "name": "<s>",
+            "age": "<s>",
+            "mrn": "<s>",
+            "examination": " patient reports two puffs located on the trunk",
+            "assessment and plan": "<s>",
+            "past medical history": "<s>"
+        }
+    },
+    {
+        "request_data": {
+            "text": "74-year-old male patient Jean D. was seen on February 6, 2023 as a follow-up patient."
+        },
+        "response_data": {
+            "history of present illnesss": "<s>",
+            "dob": "<s>",
+            "allergies": "<s>",
+            "review of systems": "<s>",
+            "current medication": "<s>",
+            "procedure": "<s>",
+            "name": " Jean D.",
+            "age": "<s>",
+            "mrn": "<s>",
+            "examination": "<s>",
+            "assessment and plan": "<s>",
+            "past medical history": "<s>"
+        }
+    },
+    {
+        "request_data": {
+            "text": "\n enter history of present illness\n  patient here for a full skin check . She is worried about few spots on her left arm . Also have history of um eczema , hand eczema , and some um lesions on the in the cheek , in the past . Otherwise , no associated illness today . Enter examination\n  um slight scaling and erythema of lips\n  and um several um brown verrucous papules on the back along with several common nevi on the trunk and extremities , enter assessment and plan . Number one , um possible contact with dermatitis on the lips um prescribed Elidal cream just to the lips um twice a day and ketoconazole cream to the angle of um mouth just for um one week once a day\n  also patient have history of eczema on the hands , which for which she already had baromethasone cream . She will continue that\n  um on skin examination for skin check um most of the le- um all the lesions are benign . Nevi and seborrheic keratosis , no treatment needed today . Patient advised to avoid sun , where sunscreen and follow up if any of these region change . Otherwise , she will be here in six months"
+        },
+        "response_data": {
+            "history of present illnesss": " patient here for a full skin check",
+            "dob": "<s>",
+            "allergies": "<s>",
+            "review of systems": "<s>",
+            "current medication": "<s>",
+            "procedure": "<s>",
+            "name": "<s>",
+            "age": "<s>",
+            "mrn": "<s>",
+            "examination": "\n  um slight scaling and erythema of lips\n  and um several um brown verrucous papules on the back along with several common nevi on the trunk and extremities",
+            "assessment and plan": " Number one, um possible contact with dermatitis on the lips",
+            "past medical history": "<s>"
+        }
+    },
+    {
+        "request_data": {
+            "text": " \n [ period ] [ HISTORY OF PRESENT ILLNESS ] Patient here is for a follow up her of her dermatitis on the arm and face , which is better with upsurura [ period ] [ EXAMINATION ] No relevant lesion today on the face or arms [ period ] [ ASSESSMENT AND PLAN ] Uhm dermatitis [ slash ] atopic , now stable with absoluteora . Patient also asking about um asthmatic treatment for her lentigoes on her hands . Um we will schedule a fracture laser to treat them . Follow up two to three weeks"
+        },
+        "response_data": {
+            "history of present illnesss": " Patient here is for a follow up her of her dermatitis on the arm and face, which is better with upsurura",
+            "dob": "<s>",
+            "allergies": "<s>",
+            "review of systems": "<s>",
+            "current medication": "<s>",
+            "procedure": "<s>",
+            "name": "<s>",
+            "age": "<s>",
+            "mrn": "<s>",
+            "examination": " No relevant lesion today on the face or arms",
+            "assessment and plan": " Uhm dermatitis [ slash ] atopic, now stable with absoluteora. Patient also asking about um asthmatic treatment for her lentigoes on her hands. Um we will schedule a fracture laser to treat them. Follow up two to three weeks",
+            "past medical history": "<s>"
+        }
+    },
+    {
+        "request_data": {
+            "text": "The name of the Patient is Jason, a 42-year-old female patient, was seen on September 5, 2023, for a routine follow-up visit. [PAST MEDICAL HISTORY] Personal history of migraines, hypothyroidism. no family history of hypothyroidism, occasional alcohol use,never smoked.[ALLERGIES] No known drug allergies.[CURRENT MEDICATIONS] Jason is currently taking sumatriptan for migraines as needed and levothyroxine for hypothyroidism.[REVIEW OF SYSTEMS] Neurological - occasional migraines with aura. General - no fever, sweats, or chills.[HISTORY OF PRESENT ILLNESS] The patient presents for a follow-up on migraine management. She reports occasional migraines with visual disturbances and moderate pain intensity.[EXAMINATION] Neurological examination is within normal limits. Blood pressure is within the normal range.[ASSESSMENT AND PLAN] Migraine with aura. Management options were discussed, including acute migraine medications and preventive therapies.[PROCEDURE] Patient opted to continue with her current treatment regimen. Prescribed propranolol as a preventive measure, 20 mg twice daily. Patient educated on potential side effects and advised to monitor blood pressure regularly."
+        },
+        "response_data": {
+            "history of present illnesss": "",
+            "dob": "<s>",
+            "allergies": " No known drug allergies",
+            "review of systems": " Neurological - occasional migraines with aura. General - no fever, sweats, or chills.[HISTORY OF PRESENT ILLNESS]",
+            "current medication": " Jason is currently taking sumatriptan for migraines as needed and levothyroxine for hypothyroidism",
+            "procedure": "<s>",
+            "name": " Jason,",
+            "age": "<s>",
+            "mrn": "<s>",
+            "examination": " Neurological examination is within normal limits. Blood pressure is within the normal range.[ASSESSMENT",
+            "assessment and plan": " Migraine with aura",
+            "past medical history": " Personal history of migraines, hypothyroidism"
+        }
+    }
+]
